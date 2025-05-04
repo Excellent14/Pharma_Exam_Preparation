@@ -1,65 +1,195 @@
 import streamlit as st
+import openai
+import google.generativeai as genai
+import fitz  # PyMuPDF
+from pdf2image import convert_from_bytes
+import pytesseract
+import subprocess
 import os
-import requests
-from dotenv import load_dotenv
-import PyPDF2
+import pickle
+import threading
+import time
+from concurrent.futures import ProcessPoolExecutor
+from hashlib import sha256
 
-# Load .env variables
-load_dotenv()
-API_KEY = os.getenv("TOGETHER_API_KEY")
-MODEL = os.getenv("MODEL_NAME", "mistral-7b-instruct")
+# ---------- Rate Limiter ----------
+class RateLimiter:
+    def __init__(self, max_calls, period):
+        self.max_calls = max_calls
+        self.period = period
+        self.calls = []
 
-# Set headers for Together API
-HEADERS = {
-    "Authorization": f"Bearer {API_KEY}",
-    "Content-Type": "application/json"
-}
+    def allow(self):
+        now = time.time()
+        self.calls = [t for t in self.calls if now - t < self.period]
+        if len(self.calls) < self.max_calls:
+            self.calls.append(now)
+            return True
+        return False
 
-# Streamlit UI
-st.set_page_config(page_title="AI Exam Agent", layout="centered")
-st.title("📘 AI Exam Agent")
-st.subheader("Generate Notes & MCQs from your PDF")
+limiter = RateLimiter(max_calls=100, period=60)
 
-# File upload
-pdf_file = st.file_uploader("Upload a PDF file", type=["pdf"])
+# ---------- API Keys ----------
+OPENAI_API_KEY = os.getenv('OPENAI_KEY')
+GEMINI_API_KEY = os.getenv('GEMINI_KEY')
 
-# Extract text from PDF
-def extract_text_from_pdf(pdf_file):
-    reader = PyPDF2.PdfReader(pdf_file)
-    full_text = ""
-    for page in reader.pages:
-        full_text += page.extract_text() or ""
-    return full_text
+# ---------- Streamlit Setup ----------
+st.set_page_config(page_title="AI Exam Agent", layout="wide")
+st.title("📘 AI Exam Preparation Agent")
 
-# Call Together API
-def query_together(prompt):
-    data = {
-        "model": MODEL,
-        "prompt": prompt,
-        "max_tokens": 800,
-        "temperature": 0.7,
-    }
-    response = requests.post("https://api.together.xyz/v1/completions", headers=HEADERS, json=data)
-    if response.status_code == 200:
-        return response.json()["choices"][0]["text"].strip()
-    else:
-        return f"❌ Error: {response.status_code} - {response.text}"
+# ---------- Sidebar Controls ----------
+sb = st.sidebar
+num_q = sb.slider("Number of MCQs", 1, 100, 10)
+note_depth = sb.selectbox("Note Depth", ["Concise", "Detailed", "Comprehensive"])
+topic = sb.text_input("Topic (optional, use for focused MCQs)")
+use_ocr = sb.checkbox("Enable OCR for scanned PDFs")
+use_ai = sb.radio("AI Backend", ["Mistral", "OpenAI", "Gemini"])
 
-# Notes & MCQs
-if pdf_file:
-    text = extract_text_from_pdf(pdf_file)
-    st.success("✅ PDF text extracted successfully!")
+# ---------- User Identification & GDPR ----------
+user_name = st.text_input("Enter your name")
+if not user_name.strip():
+    st.warning("Please enter your name to proceed.")
+    st.stop()
+if st.checkbox("Delete my data"):
+    try:
+        os.remove("user_data.json")
+        st.success("Data deleted as per GDPR")
+    except FileNotFoundError:
+        pass
 
-    if st.button("📄 Generate Notes"):
+# ---------- Dyslexia Mode ----------
+if st.sidebar.checkbox("Dyslexia Mode"):
+    st.markdown("""
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=OpenDyslexic&display=swap');
+    * { font-family: 'OpenDyslexic', sans-serif; }
+    </style>
+    """, unsafe_allow_html=True)
+
+# ---------- In-Memory Cache ----------
+REDIS_STORE = {}
+def get_cache_key(pdf_bytes): return sha256(pdf_bytes).hexdigest()
+def check_redis(key): return REDIS_STORE.get(key)
+def store_redis(key, val): REDIS_STORE[key] = val
+
+# ---------- Model Prewarm ----------
+def prewarm_ai():
+    if use_ai == "OpenAI":
+        if not OPENAI_API_KEY:
+            st.error("OPENAI_KEY not set in environment")
+            st.stop()
+        openai.api_key = OPENAI_API_KEY
+        threading.Thread(target=lambda: openai.chat.completions.create(model="gpt-4", messages=[{"role":"user","content":"warmup"}])).start()
+    elif use_ai == "Gemini":
+        if not GEMINI_API_KEY:
+            st.error("GEMINI_KEY not set in environment")
+            st.stop()
+        genai.configure(api_key=GEMINI_API_KEY)
+
+prewarm_ai()
+
+# ---------- PDF Extraction ----------
+@st.cache_data
+def extract_text(pdf_bytes, ocr_enabled):
+    doc = fitz.open(stream=pdf_bytes, filetype="pdf")
+    text = "".join(page.get_text() for page in doc)
+    if not text.strip() and ocr_enabled:
+        key = get_cache_key(pdf_bytes)
+        cached = check_redis(key)
+        if not cached:
+            images = convert_from_bytes(pdf_bytes)
+            with ProcessPoolExecutor() as executor:
+                ocr_chunks = list(executor.map(lambda img: pytesseract.image_to_string(img.convert('L')), images))
+            cached = pickle.dumps("\n".join(ocr_chunks))
+            store_redis(key, cached)
+        text = pickle.loads(cached)
+    return text
+
+# ---------- PDF Validation ----------
+def sanitize_pdf(uploaded_file):
+    if len(uploaded_file.getvalue()) > 50 * 1024 * 1024:
+        st.error("File too large (>50MB)")
+        st.stop()
+
+def is_valid_pdf(pdf_bytes):
+    try:
+        fitz.open(stream=pdf_bytes, filetype="pdf")
+        return True
+    except:
+        return False
+
+# ---------- Main App ----------
+f = st.file_uploader("Upload your PDF for notes and MCQs", type="pdf")
+if f:
+    sanitize_pdf(f)
+    pdf_bytes = f.read()
+    if not is_valid_pdf(pdf_bytes):
+        st.error("Invalid PDF file")
+        st.stop()
+
+    # Extract text
+    text = extract_text(pdf_bytes, use_ocr)
+    if not text.strip():
+        st.error("No text extracted from PDF.")
+        st.stop()
+    st.success("PDF text extracted.")
+
+    # Show Generate buttons
+    if st.button("📝 Generate Notes"):
+        notes = []
         with st.spinner("Generating notes..."):
-            notes_prompt = f"Generate detailed study notes from the following content:\n\n{text[:4000]}"
-            notes = query_together(notes_prompt)
-            st.subheader("📝 Generated Notes")
-            st.write(notes)
+            for idx, chunk in enumerate([text[i:i+3000] for i in range(0, len(text), 3000)]):
+                prompt = f"Generate {note_depth.lower()} notes for exam from this content:\n{chunk}"
+                try:
+                    if use_ai == "OpenAI":
+                        resp = openai.chat.completions.create(model="gpt-4", messages=[{"role": "user", "content": prompt}])
+                        note = resp.choices[0].message.content
+                    elif use_ai == "Gemini":
+                        chat = genai.GenerativeModel('gemini-pro').start_chat()
+                        response = chat.send_message(prompt)
+                        note = response.text
+                    else:
+                        result = subprocess.run(
+                            ["ollama", "run", "mistral"],
+                            input=prompt.encode('utf-8'),
+                            capture_output=True,
+                            timeout=60
+                        )
+                        note = result.stdout.decode('utf-8').strip()
+                        if not note:
+                            note = "⚠️ Mistral did not return a valid response. Check Ollama setup."
+                except Exception as e:
+                    note = f"⚠️ Error: {str(e)}"
+                notes.append(note)
+        st.subheader("Generated Notes")
+        st.markdown("\n\n".join(notes))
 
     if st.button("❓ Generate MCQs"):
         with st.spinner("Generating MCQs..."):
-            mcq_prompt = f"Generate 5 multiple choice questions with options and answers from the following text:\n\n{text[:4000]}"
-            mcqs = query_together(mcq_prompt)
-            st.subheader("📊 Generated MCQs")
-            st.write(mcqs)
+            try:
+                if use_ai == "OpenAI":
+                    mcq_resp = openai.chat.completions.create(
+                        model="gpt-4",
+                        messages=[{"role": "user", "content": f"Generate {num_q} MCQs from this text:\n{text}"}]
+                    )
+                    mcqs = mcq_resp.choices[0].message.content
+                elif use_ai == "Gemini":
+                    chat = genai.GenerativeModel('gemini-pro').start_chat()
+                    response = chat.send_message(f"Generate {num_q} MCQs from this text:\n{text}")
+                    mcqs = response.text
+                else:
+                    result = subprocess.run(
+                        ["ollama", "run", "mistral"],
+                        input=f"Generate {num_q} MCQs from this text:\n{text}".encode('utf-8'),
+                        capture_output=True,
+                        timeout=60
+                    )
+                    mcqs = result.stdout.decode('utf-8').strip()
+                    if not mcqs:
+                        mcqs = "⚠️ Mistral did not return MCQs."
+            except Exception as e:
+                mcqs = f"⚠️ Error: {str(e)}"
+        st.subheader("Generated MCQs")
+        st.markdown(mcqs)
+else:
+    st.info("Please upload a PDF to start generating notes or MCQs.")
