@@ -1,130 +1,52 @@
 import streamlit as st
 import openai
-import google.generativeai as genai
-import fitz  # PyMuPDF
-from pdf2image import convert_from_bytes
+import genai
+import PyPDF2
 import pytesseract
-import subprocess
+from pdf2image import convert_from_path
+from PIL import Image
 import os
-import pickle
-import threading
-import time
-from concurrent.futures import ProcessPoolExecutor
-from hashlib import sha256
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
 load_dotenv()
 
-# ---------- Rate Limiter ----------
-class RateLimiter:
-    def __init__(self, max_calls, period):
-        self.max_calls = max_calls
-        self.period = period
-        self.calls = []
+# OpenAI API Key
+openai.api_key = os.getenv("OPENAI_API_KEY")
+# Gemini API setup (or another alternative)
+use_ai = os.getenv("USE_AI")  # "OpenAI" or "Gemini"
+num_q = int(os.getenv("MCQ_COUNT", 5))  # Number of MCQs to generate
 
-    def allow(self):
-        now = time.time()
-        self.calls = [t for t in self.calls if now - t < self.period]
-        if len(self.calls) < self.max_calls:
-            self.calls.append(now)
-            return True
-        return False
-
-limiter = RateLimiter(max_calls=100, period=60)
-
-# ---------- API Keys ----------
-OPENAI_API_KEY = os.getenv('OPENAI_KEY')
-GEMINI_API_KEY = os.getenv('GEMINI_KEY')
-TOGETHER_API_KEY = os.getenv('TOGETHER_API_KEY')
-
-# ---------- Streamlit Setup ----------
-st.set_page_config(page_title="AI Exam Agent", layout="wide")
-st.title("📘 AI Exam Preparation Agent")
-
-# ---------- Sidebar Controls ----------
-sb = st.sidebar
-num_q = sb.slider("Number of MCQs", 1, 100, 10)
-note_depth = sb.selectbox("Note Depth", ["Concise", "Detailed", "Comprehensive"])
-topic = sb.text_input("Topic (optional, use for focused MCQs)")
-use_ocr = sb.checkbox("Enable OCR for scanned PDFs")
-use_ai = sb.radio("AI Backend", ["Mistral", "OpenAI", "Gemini", "Together"])
-
-# ---------- User Identification & GDPR ----------
-user_name = st.text_input("Enter your name")
-if not user_name.strip():
-    st.warning("Please enter your name to proceed.")
-    st.stop()
-if st.checkbox("Delete my data"):
-    try:
-        os.remove("user_data.json")
-        st.success("Data deleted as per GDPR")
-    except FileNotFoundError:
-        pass
-
-# ---------- Dyslexia Mode ----------
-if st.sidebar.checkbox("Dyslexia Mode"):
-    st.markdown("""
-    <style>
-    @import url('https://fonts.googleapis.com/css2?family=OpenDyslexic&display=swap');
-    * { font-family: 'OpenDyslexic', sans-serif; }
-    </style>
-    """, unsafe_allow_html=True)
-
-# ---------- In-Memory Cache ----------
-REDIS_STORE = {}
-def get_cache_key(pdf_bytes): return sha256(pdf_bytes).hexdigest()
-def check_redis(key): return REDIS_STORE.get(key)
-def store_redis(key, val): REDIS_STORE[key] = val
-
-# ---------- Model Prewarm ----------
-if use_ai == "OpenAI":
-    if not OPENAI_API_KEY:
-        st.error("OPENAI_KEY not set in environment")
-        st.stop()
-    openai.api_key = OPENAI_API_KEY
-    threading.Thread(target=lambda: openai.chat.completions.create(model="gpt-4", messages=[{"role":"user","content":"warmup"}])).start()
-elif use_ai == "Gemini":
-    if not GEMINI_API_KEY:
-        st.error("GEMINI_KEY not set in environment")
-        st.stop()
-    genai.configure(api_key=GEMINI_API_KEY)
-elif use_ai == "Together":
-    if not TOGETHER_API_KEY:
-        st.error("TOGETHER_API_KEY not set in environment")
-        st.stop()
-
-# ---------- PDF Extraction ----------
-@st.cache_data
-def extract_text(pdf_bytes, ocr_enabled):
-    doc = fitz.open(stream=pdf_bytes, filetype="pdf")
-    text = "".join(page.get_text() for page in doc)
-    if not text.strip() and ocr_enabled:
-        key = get_cache_key(pdf_bytes)
-        cached = check_redis(key)
-        if not cached:
-            images = convert_from_bytes(pdf_bytes)
-            with ProcessPoolExecutor() as executor:
-                ocr_chunks = list(executor.map(lambda img: pytesseract.image_to_string(img.convert('L')), images))
-            cached = pickle.dumps("\n".join(ocr_chunks))
-            store_redis(key, cached)
-        text = pickle.loads(cached)
+# Function to handle OCR text extraction
+def extract_text(pdf_bytes, use_ocr=False):
+    pdf_reader = PyPDF2.PdfReader(pdf_bytes)
+    text = ""
+    for page_num in range(len(pdf_reader.pages)):
+        page = pdf_reader.pages[page_num]
+        text += page.extract_text() or ""
+    
+    if use_ocr:
+        images = convert_from_path(pdf_bytes)
+        for img in images:
+            text += pytesseract.image_to_string(img)
     return text
 
-# ---------- PDF Validation ----------
-def sanitize_pdf(uploaded_file):
-    if len(uploaded_file.getvalue()) > 50 * 1024 * 1024:
-        st.error("File too large (>50MB)")
-        st.stop()
-
+# Check if PDF is valid
 def is_valid_pdf(pdf_bytes):
     try:
-        fitz.open(stream=pdf_bytes, filetype="pdf")
-        return True
+        pdf_reader = PyPDF2.PdfReader(pdf_bytes)
+        return len(pdf_reader.pages) > 0
     except:
         return False
 
+# Sanitizing the PDF file
+def sanitize_pdf(file):
+    # You can add custom sanitization rules here
+    pass
+
 # ---------- Main App ----------
+st.title("AI Exam Agent")
+
 f = st.file_uploader("Upload your PDF for notes and MCQs", type="pdf")
 if f:
     sanitize_pdf(f)
@@ -134,7 +56,7 @@ if f:
         st.stop()
 
     # Extract text
-    text = extract_text(pdf_bytes, use_ocr)
+    text = extract_text(pdf_bytes, use_ocr=True)
     if not text.strip():
         st.error("No text extracted from PDF.")
         st.stop()
@@ -154,29 +76,9 @@ if f:
                         chat = genai.GenerativeModel('gemini-pro').start_chat()
                         response = chat.send_message(prompt)
                         note = response.text
-                    elif use_ai == "Together":
-                        headers = {
-                            "Authorization": f"Bearer {TOGETHER_API_KEY}",
-                            "Content-Type": "application/json"
-                        }
-                        data = {
-                            "inputs": prompt,
-                            "options": {
-                                "max_tokens": 1500
-                            }
-                        }
-                        response = requests.post("https://api.together.xyz/v1/engines/text-davinci-003/completions", json=data, headers=headers)
-                        note = response.json()['choices'][0]['text']
                     else:
-                        result = subprocess.run(
-                            ["ollama", "run", "mistral"],
-                            input=prompt.encode('utf-8'),
-                            capture_output=True,
-                            timeout=60
-                        )
-                        note = result.stdout.decode('utf-8').strip()
-                        if not note:
-                            note = "⚠️ Mistral did not return a valid response. Check Ollama setup."
+                        # If Ollama is not available, just skip this block
+                        note = "⚠️ Error: Ollama is not available. Please use OpenAI or Gemini."
                 except Exception as e:
                     note = f"⚠️ Error: {str(e)}"
                 notes.append(note)
@@ -196,29 +98,8 @@ if f:
                     chat = genai.GenerativeModel('gemini-pro').start_chat()
                     response = chat.send_message(f"Generate {num_q} MCQs from this text:\n{text}")
                     mcqs = response.text
-                elif use_ai == "Together":
-                    headers = {
-                        "Authorization": f"Bearer {TOGETHER_API_KEY}",
-                        "Content-Type": "application/json"
-                    }
-                    data = {
-                        "inputs": f"Generate {num_q} MCQs from this text:\n{text}",
-                        "options": {
-                            "max_tokens": 1500
-                        }
-                    }
-                    response = requests.post("https://api.together.xyz/v1/engines/text-davinci-003/completions", json=data, headers=headers)
-                    mcqs = response.json()['choices'][0]['text']
                 else:
-                    result = subprocess.run(
-                        ["ollama", "run", "mistral"],
-                        input=f"Generate {num_q} MCQs from this text:\n{text}".encode('utf-8'),
-                        capture_output=True,
-                        timeout=60
-                    )
-                    mcqs = result.stdout.decode('utf-8').strip()
-                    if not mcqs:
-                        mcqs = "⚠️ Mistral did not return MCQs."
+                    mcqs = "⚠️ Error: Ollama is not available. Please use OpenAI or Gemini."
             except Exception as e:
                 mcqs = f"⚠️ Error: {str(e)}"
         st.subheader("Generated MCQs")
