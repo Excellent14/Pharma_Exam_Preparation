@@ -1,90 +1,75 @@
 import streamlit as st
 import PyPDF2
-import pdfplumber
+import openai
 import os
 from dotenv import load_dotenv
-import openai
-import genai
+from PyPDF2 import PdfReader
 from PIL import Image
-from io import BytesIO
+import pytesseract
+import pdf2image
+import requests
+import json
 
-# Load environment variables from .env file
+# Load environment variables
 load_dotenv()
 
-# Set up OpenAI API key
-openai.api_key = os.getenv('OPENAI_API_KEY')
+# API keys and environment variables
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+TIKTOKEN_API_KEY = os.getenv('TIKTOKEN_API_KEY')
 
-# Function to extract text from PDF using PyPDF2
-def extract_pdf_text_pypdf2(pdf_file):
-    try:
-        pdf_reader = PyPDF2.PdfReader(pdf_file)
-        text = ""
-        for page_num in range(len(pdf_reader.pages)):
-            page = pdf_reader.pages[page_num]
-            text += page.extract_text()
-        return text
-    except PyPDF2.errors.PdfReadError as e:
-        return f"Error reading PDF with PyPDF2: {str(e)}"
-    except Exception as e:
-        return f"Unexpected error with PyPDF2: {str(e)}"
+# Setup OpenAI API
+openai.api_key = OPENAI_API_KEY
 
-# Function to extract text from PDF using pdfplumber (fallback)
-def extract_pdf_text_plumber(pdf_file):
-    try:
-        with pdfplumber.open(pdf_file) as pdf:
-            text = ""
-            for page in pdf.pages:
-                text += page.extract_text()
-            return text
-    except Exception as e:
-        return f"Error reading PDF with pdfplumber: {str(e)}"
+# Streamlit app title and configuration
+st.set_page_config(page_title="AI Exam Agent", page_icon=":books:", layout="wide")
+st.title("AI Exam Agent for Pharma Exam Preparation")
 
-# Fallback function to handle PDF extraction
-def extract_pdf_text(pdf_file):
-    text = extract_pdf_text_pypdf2(pdf_file)
-    if "Error" in text:  # If PyPDF2 failed, use pdfplumber
-        text = extract_pdf_text_plumber(pdf_file)
+# Function to process PDF and extract text
+def process_pdf(file):
+    pdf_reader = PdfReader(file)
+    text = ""
+    for page in pdf_reader.pages:
+        text += page.extract_text()
     return text
 
-# Function to generate MCQs based on extracted text
-def generate_mcqs_from_text(text):
-    prompt = f"Generate MCQs based on the following text:\n\n{text}\n\nMCQs:"
-    
+# Function to generate MCQs using OpenAI API
+def generate_mcqs(text):
     response = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=prompt,
-        max_tokens=500
+        model="text-davinci-003",
+        prompt=f"Create multiple choice questions from the following text:\n\n{text}",
+        max_tokens=1000
     )
-    
     return response.choices[0].text.strip()
 
-# Streamlit UI
-st.title("AI Exam Agent for Pharma Exam Preparation")
-st.sidebar.header("Upload PDF for MCQ Generation")
+# Function to extract text from an image using pytesseract
+def extract_text_from_image(image):
+    return pytesseract.image_to_string(image)
 
-# File uploader for PDF
-uploaded_file = st.file_uploader("Choose a PDF file", type=["pdf"])
+# File upload widget
+pdf_file = st.file_uploader("Upload your PDF file", type=["pdf"])
 
-if uploaded_file is not None:
-    # Extract text from PDF
-    pdf_text = extract_pdf_text(uploaded_file)
+# When the user uploads a file
+if pdf_file:
+    st.success("File uploaded successfully!")
+    # Extract text from the PDF
+    text = process_pdf(pdf_file)
+    st.write("Extracted Text from PDF:")
+    st.text_area("Text", text, height=300)
 
-    if "Error" in pdf_text:
-        st.error(f"Failed to extract text from PDF: {pdf_text}")
-    else:
-        st.success("PDF text extracted successfully!")
+    # Generate MCQs
+    if st.button("Generate MCQs"):
+        mcqs = generate_mcqs(text)
+        st.subheader("Generated MCQs:")
+        st.write(mcqs)
 
-        # Show extracted text
-        st.text_area("Extracted Text", pdf_text, height=300)
+    # Optional: Add support for images (to extract text from images in the PDF)
+    image_file = st.file_uploader("Upload Image for Text Extraction", type=["png", "jpg", "jpeg"])
 
-        # Generate MCQs
-        if st.button("Generate MCQs"):
-            mcqs = generate_mcqs_from_text(pdf_text)
-            if mcqs:
-                st.write(mcqs)
-            else:
-                st.error("No MCQs generated. Please check the extracted text.")
+    if image_file:
+        image = Image.open(image_file)
+        extracted_text = extract_text_from_image(image)
+        st.write("Extracted Text from Image:")
+        st.text_area("Image Text", extracted_text, height=300)
 
-# Error handling for missing API keys in environment
-if not openai.api_key:
-    st.error("OpenAI API key is missing in the environment variables.")
+# For custom features like API integration or other specific functions, add further logic
