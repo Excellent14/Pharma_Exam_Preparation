@@ -1,93 +1,90 @@
 import streamlit as st
-import openai
 import PyPDF2
-import pytesseract
-from pdf2image import convert_from_path
-from PIL import Image
+import pdfplumber
 import os
 from dotenv import load_dotenv
+import openai
+import genai
+from PIL import Image
+from io import BytesIO
 
 # Load environment variables from .env file
 load_dotenv()
 
-# OpenAI API Key
-openai.api_key = os.getenv("OPENAI_API_KEY")
-num_q = int(os.getenv("MCQ_COUNT", 5))  # Number of MCQs to generate
+# Set up OpenAI API key
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
-# Function to handle OCR text extraction
-def extract_text(pdf_bytes, use_ocr=False):
-    pdf_reader = PyPDF2.PdfReader(pdf_bytes)
-    text = ""
-    for page_num in range(len(pdf_reader.pages)):
-        page = pdf_reader.pages[page_num]
-        text += page.extract_text() or ""
-    
-    if use_ocr:
-        images = convert_from_path(pdf_bytes)
-        for img in images:
-            text += pytesseract.image_to_string(img)
+# Function to extract text from PDF using PyPDF2
+def extract_pdf_text_pypdf2(pdf_file):
+    try:
+        pdf_reader = PyPDF2.PdfReader(pdf_file)
+        text = ""
+        for page_num in range(len(pdf_reader.pages)):
+            page = pdf_reader.pages[page_num]
+            text += page.extract_text()
+        return text
+    except PyPDF2.errors.PdfReadError as e:
+        return f"Error reading PDF with PyPDF2: {str(e)}"
+    except Exception as e:
+        return f"Unexpected error with PyPDF2: {str(e)}"
+
+# Function to extract text from PDF using pdfplumber (fallback)
+def extract_pdf_text_plumber(pdf_file):
+    try:
+        with pdfplumber.open(pdf_file) as pdf:
+            text = ""
+            for page in pdf.pages:
+                text += page.extract_text()
+            return text
+    except Exception as e:
+        return f"Error reading PDF with pdfplumber: {str(e)}"
+
+# Fallback function to handle PDF extraction
+def extract_pdf_text(pdf_file):
+    text = extract_pdf_text_pypdf2(pdf_file)
+    if "Error" in text:  # If PyPDF2 failed, use pdfplumber
+        text = extract_pdf_text_plumber(pdf_file)
     return text
 
-# Check if PDF is valid
-def is_valid_pdf(pdf_bytes):
-    try:
-        pdf_reader = PyPDF2.PdfReader(pdf_bytes)
-        return len(pdf_reader.pages) > 0
-    except:
-        return False
+# Function to generate MCQs based on extracted text
+def generate_mcqs_from_text(text):
+    prompt = f"Generate MCQs based on the following text:\n\n{text}\n\nMCQs:"
+    
+    response = openai.Completion.create(
+        engine="text-davinci-003",
+        prompt=prompt,
+        max_tokens=500
+    )
+    
+    return response.choices[0].text.strip()
 
-# Sanitizing the PDF file
-def sanitize_pdf(file):
-    # You can add custom sanitization rules here
-    pass
+# Streamlit UI
+st.title("AI Exam Agent for Pharma Exam Preparation")
+st.sidebar.header("Upload PDF for MCQ Generation")
 
-# ---------- Main App ----------
-st.title("AI Exam Agent")
+# File uploader for PDF
+uploaded_file = st.file_uploader("Choose a PDF file", type=["pdf"])
 
-f = st.file_uploader("Upload your PDF for notes and MCQs", type="pdf")
-if f:
-    sanitize_pdf(f)
-    pdf_bytes = f.read()
-    if not is_valid_pdf(pdf_bytes):
-        st.error("Invalid PDF file")
-        st.stop()
+if uploaded_file is not None:
+    # Extract text from PDF
+    pdf_text = extract_pdf_text(uploaded_file)
 
-    # Extract text
-    text = extract_text(pdf_bytes, use_ocr=True)
-    if not text.strip():
-        st.error("No text extracted from PDF.")
-        st.stop()
-    st.success("PDF text extracted.")
+    if "Error" in pdf_text:
+        st.error(f"Failed to extract text from PDF: {pdf_text}")
+    else:
+        st.success("PDF text extracted successfully!")
 
-    # Show Generate buttons
-    if st.button("📝 Generate Notes"):
-        notes = []
-        with st.spinner("Generating notes..."):
-            for idx, chunk in enumerate([text[i:i+3000] for i in range(0, len(text), 3000)]):
-                prompt = f"Generate detailed notes for exam from this content:\n{chunk}"
-                try:
-                    resp = openai.ChatCompletion.create(
-                        model="gpt-4", 
-                        messages=[{"role": "user", "content": prompt}]
-                    )
-                    note = resp.choices[0].message.content
-                except Exception as e:
-                    note = f"⚠️ Error: {str(e)}"
-                notes.append(note)
-        st.subheader("Generated Notes")
-        st.markdown("\n\n".join(notes))
+        # Show extracted text
+        st.text_area("Extracted Text", pdf_text, height=300)
 
-    if st.button("❓ Generate MCQs"):
-        with st.spinner("Generating MCQs..."):
-            try:
-                mcq_resp = openai.ChatCompletion.create(
-                    model="gpt-4",
-                    messages=[{"role": "user", "content": f"Generate {num_q} MCQs from this text:\n{text}"}]
-                )
-                mcqs = mcq_resp.choices[0].message.content
-            except Exception as e:
-                mcqs = f"⚠️ Error: {str(e)}"
-        st.subheader("Generated MCQs")
-        st.markdown(mcqs)
-else:
-    st.info("Please upload a PDF to start generating notes or MCQs.")
+        # Generate MCQs
+        if st.button("Generate MCQs"):
+            mcqs = generate_mcqs_from_text(pdf_text)
+            if mcqs:
+                st.write(mcqs)
+            else:
+                st.error("No MCQs generated. Please check the extracted text.")
+
+# Error handling for missing API keys in environment
+if not openai.api_key:
+    st.error("OpenAI API key is missing in the environment variables.")
