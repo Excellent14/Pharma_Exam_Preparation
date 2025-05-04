@@ -1,10 +1,8 @@
 streamlit
 openai
 google-generativeai
-pymupdf
+PyMuPDF
 pdf2image
 pytesseract
 Pillow
 cryptography
-prometheus_client
-streamlit-extras
