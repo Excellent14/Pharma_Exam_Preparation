@@ -6,3 +6,5 @@ pytesseract
 Pillow
 cryptography
 python-dotenv
+PyPDF2
+
