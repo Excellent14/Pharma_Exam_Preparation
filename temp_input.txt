@@ -1,0 +1,3294 @@
+Anticholinergic Drugs and
+Drugs Acting on Autonomic
+GangliaChapterChapterChapterChapterChapter 88888
+ANTICHOLINERGIC DRUGS
+(Muscarinic receptor antagonists,
+Atropinic, Parasympatholytic)
+Conventionally, the term anticholinergic drugs
+is restricted to those which block actions of ACh
+on autonomic effectors and in the CNS exerted
+through muscarinic receptors. Though nicotinic
+receptor antagonists also block certain actions of
+ACh, they are generally referred to as ganglion
+blockers and neuromuscular blockers.
+Atropine, the prototype drug of this class, is
+highly selective for muscarinic receptors, but some
+of its synthetic substitutes do possess significant
+nicotinic blocking property in addition. The
+selective action of atropine can easily be demon-
+strated on a piece of guinea pig ileum where
+ACh induced contractions are blocked without
+affecting those evoked by histamine, 5-HT or other
+spasmogens. The selectivity is, however, lost at
+very high doses. All anticholinergics are compe-
+titive antagonists.
+CLASSIFICATION
+1.Natural alkaloids Atropine, Hyoscine
+(Scopolamine).
+2.Semisynthetic derivatives Homatropine,
+Atropine methonitrate, Hyoscine butyl
+bromide, Ipratropium bromide, Tiotropium
+bromide.
+3.Synthetic compounds
+(a)Mydriatics:  Cyclopentolate, Tropicamide
+(b)Antisecretory-antispasmodics :
+(i)Quaternary compounds: Propantheline,
+Oxyphenonium, Clidinium, Pipenzolate
+methyl bromide, Isopropamide, Glycopyr-
+rolate.
+(ii)Tertiary amines: Dicyclomine, Valetha-
+mate,  Pirenzepine.(c)Vasicoselective: Oxybutynin, Flavoxate,
+Tolterodine.
+(d)Antiparkinsonian:  Trihexyphenidyl (Benzhe-
+xol), Procyclidine, Biperiden.
+In addition, many other classes of drugs, i.e.
+tricyclic antidepressants, phenothiazines, anti-
+histamines and disopyramide possess significant
+antimuscarinic actions.
+The natural alkaloids are found in plants of
+the solanaceae family. The levo-isomers are much
+more active than the dextroisomers. Atropine is
+racemic while scopolamine is l-hyoscine.
+PHARMACOLOGICAL ACTIONS
+(Atropine as prototype)
+The actions of atropine can be largely predicted
+from knowledge of parasympathetic responses.
+Prominent effects are seen in organs which
+normally receive strong parasympathetic tone.
+Atropine blocks all subtypes of muscarinic
+receptors.
+1. CNS Atropine has an overall CNS stimu-
+lant action. However, these effects are not appre-
+ciable at low doses which produce only peripheral
+effects because of restricted entry into the brain.
+Hyoscine produces central effects (depressant)
+even at low doses.
+ Atropine stimulates many medullary centres
+vagal, respiratory, vasomotor.
+ It depresses vestibular excitation and has
+antimotion sickness property. The site of this
+action is not clearprobably there is a
+cholinergic link in the vestibular pathway, or
+it may be exerted at the cortical level.
+ By blocking the relative cholinergic over-
+activity in basal ganglia, it suppresses tremor
+and rigidity of parkinsonism.133
+CHAPTER 9ADRENERGIC SYSTEM AND DRUGS
+(ii) In adipose tissue,  triglyceride lipase is activated 
+increased plasma free fatty acids. Increased O 2 consumption
+and heat production result primarily by action on brown
+adipose tissue, which has predominant 3 receptors.
+(iii) In heart, proteins like troponin and phospholamban are
+phosphorylated. The former results in increased interaction
+with Ca2+ at the myofilaments  increased force of contrac-
+tion; the latter causes sequestration of Ca2+ by sarcoplasmic
+reticulum  more rapid relaxation. The activated protein
+Gs, in addition, interacts directly with the Ca2+ channels
+in the membrane promoting influx of Ca2+ which reinforces
+the positive inotropic action exerted through cAMP.
+(iv) In the gut and bronchial muscle , relaxation (accom-
+panied with hyperpolarization) is induced, but the intermediate
+steps have not been clearly delineated.
+(v) In pancreatic islets activation of 2 receptors on  cells
+increases glucagon secretion, and that on  cells increases
+insulin secretion, both by raising intracellular cAMP. However,
+augmentation of insulin secretion is weak.
+ actions The mediation of  actions is varied and less
+well defined.
+(i) In smooth muscles (including vascular) that are contracted
+through 1 receptors, the activated Gq-protein increases IP 3/
+DAG production  mobilization of Ca2+ from intracellular
+organelle  activation of calmodulin dependent myosin light
+chain kinase  phosphorylation of myosin  contraction.
+The vasoconstrictor 2 receptors probably enhance Ca2+ influx
+without utilizing IP 3.
+(ii) The prejunctional 2 receptor appears to inhibit neuronal
+Ca2+ channels and also limit the intracellular availability of
+Ca2+ by decreasing cAMP production. Transmitter (NA) release
+is consequently diminished. Hyperpolarization through
+activation of G-protein gated K+ channels may also occur.
+(iii) In the gut, 2 receptor activation hyperpolarizes the
+cholinergic neurone  decreased release of ACh  reduced
+tone; whereas 1 receptors located directly on the smooth muscle
+cell increase K+ efflux indirectly (by activating Ca2+ dependent
+K+ channels) leading to hyperpolarization  relaxation.
+(iv) In pancreatic  cells, stimulation of 2 receptors reduces
+the formation of cAMP  decreased insulin release.
+Administration and preparations
+CAs are absorbed from the intestine but are rapidly
+degraded by MAO and COMT present in the
+intestinal wall and liver. They are thus orally
+inactive.
+1.Adrenaline (Epinephrine) For systemic
+action, 0.20.5 mg s.c., i.m., action lasts ½ to
+2 hrs. ADRENALINE 1 mg/ml inj; ADRENA 4 mg (of
+Adr. bitartrate=2mg Adr. base)/2 ml inj.
+As local vasoconstrictor, 1 in 200,000 to 1
+in 100,000 added to lidocaine;
+in XYLOCAINE with ADRENALINE: lidocaine 21.3
+mg + adrenaline 0.005 mg/ml inj; 30 ml vial.2.Noradrenaline (Norepinephrine, levarterenol)
+24 µg/min i.v. infusion; local tissue necrosis
+occurs if the solution extravasates; do not mix
+with NaHCO 3 in the same bottle (rapid oxidation
+occurs); action starts declining within 5 min of
+discontinuing infusion. It is rarely used now as
+a pressor agent. ADRENOR, NORAD, VASCUE, NOR-
+DRIN 2 mg (base)/2 ml amp.
+3.Isoprenaline (Isoproterenol) 20 mg sublin-
+gual, 12 mg i.m., 510 µg/min i.v. infusion;
+action lasts 13 hrs. It is occasionally used to
+maintain idioventricular rate till pacemaker is
+implanted. For bronchial asthma, it has been
+superseded by selective 2 agonists.
+ISOPRIN, ISOSOL 4 mg/2 ml inj, NEOEPININE 20 mg
+sublingual tablets.
+Adverse effects and contraindications
+ Transient restlessness, headache,  palpitation,
+anxiety, tremor and pallor may occur after s.c./
+i.m. injection of Adr.
+ Marked rise in BP leading to cerebral haemor-
+rhage, ventricular tachycardia/fibrillation,
+angina, myocardial infarction are the hazards of
+large doses or inadvertant i.v. injection of Adr.
+ Adr is contraindicated in hypertensive, hyper-
+thyroid and angina patients.
+ Adr should not be given during anaesthesia
+with halothane (risk of arrhythmias) and to
+patients receiving  blockers (marked rise in
+BP can occur due to unopposed  action).
+THERAPEUTIC CLASSIFICATION OF
+ADRENERGIC DRUGS
+I.Pressor agents
+Noradrenaline Phenylephrine
+Ephedrine Methoxamine
+Dopamine Mephentermine
+II.Cardiac stimulants
+Adrenaline Dobutamine
+Isoprenaline
+III.Bronchodilators
+Isoprenaline Salmeterol
+Salbutamol Formoterol
+(Albuterol) Bambuterol
+Terbutaline134
+SECTION 2DRUGS ACTING ON ANS
+IV.Nasal decongestants
+Phenylephrine Naphazoline
+Xylometazoline Pseudoephedrine
+Oxymetazoline Phenyl propanolamine
+V.CNS stimulants
+Amphetamine Methamphetamine
+Dexamphetamine
+VI.Anorectics
+Fenfluramine Sibutramine
+Dexfenfluramine
+VII.Uterine relaxant and vasodilators
+Ritodrine Salbutamol
+Isoxsuprine Terbutaline
+Salient features of important adrenergic drugs are
+described below.
+Dopamine (DA)It is a dopaminergic (D1 and
+D2) as well as  adrenergic  and 1 (but not 2) 
+agonist. The D1 receptors in renal and mesenteric
+blood vessels are the most sensitive: i.v. infusion
+of low dose of DA dilates these vessels (by raising
+intracellular cAMP). This increases g.f.r. In
+addition DA exerts natriuretic effect by D1
+receptors on proximal tubular cells. Moderately
+high doses produce a positive inotropic (direct 1
+and D1 action + that due to NA release), but little
+chronotropic effect on heart. Vasoconstriction ( 1
+action) occurs only when large doses are infused.
+At doses normally employed, it raises cardiac
+output and systolic BP with little effect on diastolic
+BP. It has practically no effect on nonvascular 
+and  receptors; does not penetrate blood-brain
+barrierno CNS effects.
+Dopamine is used in patients of cardiogenic
+or septic shock and severe CHF wherein it increa-
+ses BP and urine outflow. It is administered by
+i.v. infusion (0.21 mg/min) which is regulated
+by monitoring BP and rate of urine formation.
+DOPAMINE, INTROPIN, DOPACARD 200 mg in 5 ml amp.
+Dobutamine A derivative of DA, but not a
+D1 or D2 receptor agonist. Though it acts on both
+ and  adrenergic receptors, the only prominent
+action of clinically employed doses (28 µg/kg/
+min i.v. infusion) is increased force of cardiaccontraction and output, without significant change
+in heart rate, peripheral resistance and BP. As
+such, it is considered to be a relatively selective
+1 agonist. It is used as an inotropic agent in
+pump failure accompanying myocardial infarction,
+cardiac surgery, and for short term management
+of severe congestive heart failure. It is less
+arrhythmogenic than Adr.
+CRDIJECT 50 mg/4 ml and 250 mg per 20 ml amp,
+DOBUTREX, DOBUSTAT 250 mg vial.
+Ephedrine It is an alkaloid obtained from
+Ephedra vulgaris.  Mainly acts indirectly but has
+some direct action as well on  and  receptors.
+Repeated injections produce tachyphylaxis,
+primarily because the neuronal pool of NA
+available for displacement is small. It is resistant
+to MAO, therefore, effective orally. It is about
+100 times less potent than Adr, but longer acting
+(46 hours). Ephedrine crosses to brain and causes
+stimulation, but central: peripheral activity ratio
+is lower than that of amphetamine.
+Ephedrine can be used for a variety of
+purposes, but it lacks selectivity, and efficacy is
+low. Use is now restricted to that in mild chronic
+bronchial asthma and for hypotension during
+spinal anaesthesia; occasionally for postural
+hypotension; 1560 mg TDS.
+EPHEDRINE HCl 15, 30 mg tab; SULFIDRIN 50 mg in
+1 ml inj, in ENDRINE 0.75% nasal drops.
+Amphetamines These are synthetic compounds
+having a pharmacological profile similar to
+ephedrine; orally active with relatively long
+duration (46 hours). They exert potent CNS
+stimulant and weaker peripheral cardiovascular
+actions. Maximal selectivity is exhibited by
+dextroamphetamine and methamphetamine, which
+in the usual doses produce few peripheral effects.
+The central actions of amphetamines are
+largely mediated by release of NA from adrenergic
+neurones in the brain. This occurs mainly by
+exchange diffusion  and reverse transport involving
+transporters like NET, DAT and VMAT2 as
+depicted in Fig. 9.5. However, the effects on
+locomotor activity, perception and the psychotic
+phenomena seen at high doses are probably dueThese are drugs which antagonize the receptor
+action of adrenaline and related drugs. They are
+competitive antagonists at  or  or both  and
+ adrenergic receptors and differ in important
+ways from the adrenergic neurone blocking
+agents, which act by interfering with the release
+of adrenergic transmitter on nerve stimulation.
+These differences are given in Table 10.1.
+ ADRENERGIC BLOCKING DRUGS
+These drugs inhibit adrenergic responses media-
+ted through the  adrenergic receptors without
+affecting those mediated through  receptors.
+CLASSIFICATION
+I.Nonequilibrium type
+(i)-Haloalkylamines Phenoxybenzamine.
+II.Equilibrium type (competitive)
+A. Nonselective
+(i)Ergot alkaloids Ergotamine, Ergotoxine
+(ii)Hydrogenated ergot alkaloids Dihydro-
+ergotamine (DHE), Dihydroergotoxine
+(iii)Imidazoline Phentolamine
+(iv)Miscellaneous Chlorpromazine
+B.1 selective Prazosin, Terazosin,
+ Doxazosin, Alfuzosin,
+ Tamsulosin
+C.2 selective Yohimbine
+GENERAL EFFECTS OF  BLOCKERS
+1. Blockade of vasoconstrictor 1 (also 2) recep-
+tors reduces peripheral resistance and causes
+pooling of blood in capacitance vessels  venous
+return and cardiac output are reduced  fall in
+BP. Postural reflex is interfered with  marked
+hypotension  occurs on standing  dizziness andsyncope. Hypovolemia accentuates the hypoten-
+sion. The  blockers abolish the pressor action of
+Adr (injected i.v. in animals), which then produces
+only fall in BP due to  mediated vasodilatation.
+This was first demonstrated by Sir HH Dale (1913)
+and is called vasomotor reversal of Dale . Pressor
+and other actions of selective  agonists (phenyl-
+ephrine) are suppressed.
+2. Reflex tachycardia  occurs due to fall in mean
+arterial pressure and increased release of NA due
+to blockade of presynaptic 2 receptors.
+3.Nasal stuffiness  and miosis result from
+blockade of  receptors in nasal blood vessels
+and in radial muscles of iris respectively.
+4. Intestinal motility is increased due to partial
+inhibition of relaxant sympathetic influences
+loose motion may occur.
+5. Hypotension produced by  blockers can
+reduce renal blood flow  g.f.r. is reduced
+and more complete reabsorption of Na+ and water
+occurs in the tubules  Na+ retention  and
+expansion of blood volume . This is accentuated
+by reflex  increase in renin release mediated
+through 1 receptors.
+6. Tone of smooth muscle in bladder trigone,
+sphincter and prostate is reduced by blockade
+of  1 receptors (mostly of the  1A subtype)
+ urine  flow in patients with  benign hypertrophy
+of prostate (BHP) is improved .
+7. Contractions of vas deferens and related
+organs which result in ejaculation are coordina-
+ted through  receptors  blockers can inhibit
+ejaculation ; this may manifest as impotence .
+The  blockers have no effect on adrenergic
+cardiac stimulation, bronchodilatation, vaso-
+dilatation and most of the metabolic changes,
+because these are mediated predominantly through
+ receptors.Antiadrenergic Drugs
+(Adrenergic Receptor Antagonists)
+and Drugs for GlaucomaChapterChapterChapterChapterChapter 1010101010144
+SECTION 2DRUGS ACTING ON ANS
+However, effects last only till the drug is given.
+Even with continued therapy, benefit may decline
+after few years due to disease progression. They
+may be used concurrently with finasteride.
+Terazosin, doxazosin, alfuzosin and tamsulosin
+are the peferred 1 blockers because of once daily
+dosing. There is some evidence that terazosin and
+doxazosin promote apoptosis in prostate.
+Tamsulosin appears to cause fewer vascular side
+effects because of relative  1A /1D selectivity.
+4.Secondary shock Shock due to blood or fluid loss
+is accompanied by reflex vasoconstriction. If volume replace-
+ment fails to reverse this (extremities remain pale and cold,
+pulse pressure does not improve), therapy with an  blocker
+(phenoxybenzamine i.v.) can help by:
+(i) Counteracting vasoconstriction.
+(ii) Shifting blood from pulmonary to systemic circuit.
+(iii) Returning fluid from extravascular to the vascular
+compartment so that cardiac output improves.
+5.Peripheral vascular diseases  blockers do increase
+skin and to some extent muscle blood flow in normal individuals,
+but these drugs are largely disappointing in peripheral vascular
+diseases when obstruction is organic (Buergers disease).
+However, when vasoconstriction is a prominent feature
+(Raynauds phenomenon, acrocyanosis), good symptomatic
+relief is afforded by prazosin or phenoxybenzamine.
+6.Congestive heart failure (CHF) The vasodilator
+action of prazosin can afford symptomatic relief in selected
+patients of CHF in the short-term, but long-term prognosis
+is not improved.
+7.Papaverine/Phentolamine Induced Penile Erection
+(PIPE) therapy for impotence In patients unable to achieve
+erection, injection of papaverine (320 mg) with or without
+phentolamine (0.51 mg) in the corpus cavernosum has been
+found to produce penile tumescence to permit intercourse.
+However, the procedure requires skill and training. Priapism
+occurs in 215% cases, which if not promptly treated leads
+to permanent damage. This is reversed by aspirating blood
+from the corpus cavernosum or by injecting phenylephrine
+locally. Repeated injections can cause penile fibrosis. Other
+complications arelocal haematoma, infection, paresthesia
+and penile deviation. This therapy should therefore be reserved
+for selected situations with proper facilities. ADRENERGIC BLOCKING DRUGS
+These drugs inhibit adrenergic responses media-
+ted through the  receptors.
+The dichloro derivative of isoprenaline was the first com-
+pound found in 1958 to block adrenergic responses which
+could not be blocked till then by the available adrenergic
+antagonists. However, it was not suitable for clinical use.
+Propranolol  introduced in 1963 was a therapeutic break-
+through. Since then, drugs in this class have proliferated
+and diversified.
+All  blockers are competitive antagonists.
+Propranolol blocks 1 and 2 receptors, but has
+weak activity on 3 subtype. It is also an inverse
+agonist: reduces resting heart rate as well. Some
+ blockers like metoprolol, atenolol, etc.
+preferentially block 1 receptors, while few others
+have additional 1 receptor blocking and/or
+vasodilator properties.
+CLASSIFICATION
+Nonselective ( 1 and 2)
+a.Without intrinsic sympathomimetic activity
+Propranolol, Sotalol, Timolol.
+b.With intrinsic sympathomimetic activity
+Pindolol
+c.With additional   blocking property
+Labetalol, Carvedilol
+Cardioselective (1)
+Metoprolol, Atenolol, Acebutolol, Bisoprolol,
+Esmolol, Betaxolol, Celiprolol, Nebivolol
+The pharmacology of propranolol is described
+as prototype.
+Another system classifies  blockers into 3 generations.
+First generation Second generation Third generation
+(older, nonselective) ( 1 selective) (with additional  blocking
+and/or vasodilator property)
+Propranolol Metoprolol Labetalol
+Timolol Atenolol Carvedilol
+Sotalol Acebutolol Celiprolol
+Pindolol Bisoprolol Nebivolol
+Esmolol Betaxolol
+164
+SECTION 3AUTACOIDS AND RELATED DRUGS
+TABLE 11.2 Clinical classification, doses and preparations of H1 antihistaminics
+Drug Dose and route Preparations
+I.HIGHLY SEDATIVE
+Diphenhydramine 2550 mg oral BENADRYL 25, 50 mg cap., 12.5 mg/5ml syr.
+Dimenhydrinate 2550 mg oral, DRAMAMINE 16 mg/5 ml syr, 50 mg tab
+Promethazine 2550 mg oral, PHENERGAN 10, 25 mg tab., 5 mg/ml elixer,
+i.m. (1 mg/kg) 25 mg/ml inj
+Hydroxyzine 2550 mg oral, ATARAX 10, 25 mg tab., 10 mg/5 ml syr, 6 mg/ml
+i.m. drops, 25 mg/ml inj.
+II.MODERATELY SEDATIVE
+Pheniramine 2050 mg oral, AVIL 25 mg, 50 mg tab, 15 mg/5 ml syr,
+i.m. 22.5 mg/ml inj.
+Cyproheptadine 4 mg oral PRACTIN, CIPLACTIN 4 mg tab., 2 mg/5ml syrup,
+Meclozine (Meclizine) 2550 mg oral In DILIGAN 12.5 mg + niacin 50 mg tab
+In PREGNIDOXIN 25 mg + Caffeine 20 mg tab
+Cinnarizine 2550 mg oral STUGERON, VERTIGON 25 and 75 mg tab.
+III.MILD SEDATIVE
+Chlorpheniramine 24 mg (0.1 mg/kg) PIRITON, CADISTIN 4 mg tab,
+oral, i.m.
+Dexchlorpheniramine 2 mg oral POLARAMINE 2 mg tab, 0.5 mg/ 5 ml syr
+Triprolidine 2.55 mg oral ACTIDIL 2.5 mg tab., ACTIFED 2.5 mg with
+pseudoephedrine 60 mg tab.
+Clemastine 12 mg oral TAVEGYL  1 mg tab., 0.5 mg/5 ml syr
+IV.SECOND GENERATION ANTIHISTAMINICS
+Fexofenadine 120180 mg oral ALLEGRA, ALTIVA, FEXO 120, 180 mg tab
+Loratadine 10 mg oral LORFAST, LORIDIN, LORMEG, 10 mg tab,
+1 mg/ml susp.
+Desloratadine 5 mg oral DESLOR, LORDAY, NEOLORIDIN 5 mg tab
+Cetirizine 10 mg oral ALERID, CETZINE, ZIRTIN, SIZON 10 mg tab,
+5 mg/5 ml syr.
+Levocetirizine 510 mg oral LEVOSIZ, LEVORID, TECZINE 5, 10 mg tab
+LEVOCET 5 mg tab, 2.5mg/5 ml syr.
+Azelastine 4 mg oral AZEP NASAL SPRAY 0.14 mg
+0.28 mg intranasal per puff nasal spray
+Mizolastine 10 mg oral ELINA 10 mg tab
+Ebastine 10 mg oral EBAST 10 mg tab
+Rupatadine 10 mg oral RUPAHIST 10 mg tab
+Terfenadine and astemizole are the earliest second generation H1 antihistamines that are now banned. Cyclizine,
+buclizine, dimethindine, mebhydroline are conventional antihistamines that have become unavailable.Nonsteroidal Antiinflammatory
+Drugs and Antipyretic-AnalgesicsChapterChapterChapterChapterChapter 1414141414
+All drugs grouped in this class have analgesic,
+antipyretic and antiinflammatory actions in
+different measures. In contrast to morphine they
+do not depress CNS, do not produce physical
+dependence, have no abuse liability and are weaker
+analgesics (except for inflammatory pain). They
+are also called nonnarcotic, nonopioid  or aspirin-
+like analgesics. They act primarily on peripheral
+pain mechanisms, but also in the CNS to raise
+pain threshold. They are more commonly
+employed and many are over-the-counter drugs.
+Willow bark ( Salix alba ) had been used for many
+centuries. Salicylic acid was prepared by hydrolysis of the
+bitter glycoside obtained from this plant. Sodium salicylate
+was used for fever and pain in 1875; its great success led
+to the introduction of acetylsalicylic acid (aspirin) in 1899.
+Phenacetin  and antipyrine  were also produced at that time.
+The next major advance was the development of
+phenylbutazone in 1949 having antiinflammatory activity
+almost comparable to corticosteroids. The term Nonsteroidal
+Antiinflammatory Drug (NSAID) was coined to designate
+such drugs. Indomethacin  was introduced in 1963. A host
+of compounds heralded by the propionic acid derivative
+ibuprofen have been added since then and cyclooxygenase
+(COX) inhibition is recognised to be their most important
+mechanism of action. Subsequently some selective COX-2
+inhibitors (celecoxib, etc.) have been added.
+The antipyretic-analgesics are chemically
+diverse, but most are organic acids.
+CLASSIFICATION
+A.Nonselective COX inhibitors (traditional
+NSAIDs)
+1.Salicylates :  Aspirin.
+2.Propionic acid derivatives : Ibuprofen,
+Naproxen, Ketoprofen, Flurbiprofen.
+3.Fenamate : Mephenamic acid.
+4.Enolic acid derivatives :  Piroxicam,
+Tenoxicam.
+5.Acetic acid derivatives : Ketorolac,
+Indomethacin, Nabumetone.6.Pyrazolone derivatives : Phenylbutazone,
+Oxyphenbutazone.
+B.Preferential COX-2 inhibitors
+Nimesulide, Diclofenac, Aceclofenac,
+Meloxicam, Etodolac.
+C. Selective COX-2 inhibitors
+Celecoxib, Etoricoxib, Parecoxib.
+D.Analgesic-antipyretics with poor
+antiinflammatory action
+1.Paraaminophenol derivative : Paracetamol
+(Acetaminophen).
+2.Pyrazolone derivatives : Metamizol (Dipy-
+rone), Propiphenazone.
+3.Benzoxazocine derivative :  Nefopam.
+NSAIDs and prostaglandin (PG)
+synthesis inhibition
+In 1971 Vane and coworkers made the landmark
+observation that aspirin and some NSAIDs
+blocked PG generation. This is now considered
+to be the major mechanism of action of NSAIDs.
+Prostaglandins, prostacyclin (PG I 2) and throm-
+boxane A 2 (TXA 2) are produced from arachidonic
+acid by the enzyme cyclooxygenase ( see p. 182)
+which exists in a constitutive (COX-1) and an
+inducible (COX-2) isoforms; the former serves
+physiological house keeping functions, while the
+latter, normally present in minute quantities, is
+induced by cytokines and other signal molecules
+at the site of inflammation  generation of PGs
+locally which mediate many of the inflammatory
+changes. However, COX-2 is constitutively present
+at some sites in brain, in juxtaglomerular cells
+and in the foetus; it may serve physiological role
+at these sites. Most NSAIDs inhibit COX-1 and
+COX-2 nonselectively, but now some selective
+COX-2 inhibitors have been produced. FeaturesAntirheumatoid and
+Antigout DrugsChapterChapterChapterChapterChapter 1515151515
+ANTIRHEUMATOID DRUGS
+These are drugs which (except corticosteroids),
+can suppress the rheumatoid process, bring about
+a remission and retard disease progression, but
+do not have nonspecific antiinflammatory or
+analgesic action. They are used in rheumatoid
+arthritis (RA) in addition to NSAIDs and are also
+referred to as disease modifying antirheumatic
+drugs (DMARDs) or slow acting antirheumatic
+drugs (SAARDs). The onset of benefit with
+DMARDs takes a few months of regular treatment
+and relapses occur a few months after cessation
+of therapy. Recently, some biological agents
+(antibodies and other proteins) have been added
+for resistant cases.
+Rheumatoid arthritis  (RA) is an autoimmune
+disease in which there is joint inflammation,
+synovial proliferation and destruction of articular
+cartilage. Immune complexes composed of IgM
+activate complement and release cytokines
+(mainly TNF  and IL-1) which are chemotactic
+for neutrophils. These inflammatory cells secrete
+lysosomal enzymes which damage cartilage and
+erode bone, while PGs produced in the process
+cause vasodilatation and pain. RA is a chronic
+progressive, crippling disorder with a waxing and
+waning course. NSAIDs are the first line drugs
+and afford symptomatic relief in pain,
+swelling, morning stiffness, immobility, but do
+not arrest the disease process.
+The goals of drug therapy in RA are:
+ Ameliorate pain, swelling and joint stiffness
+ Prevent articular cartilage damage and bony
+erosions
+ Prevent deformity and preserve joint function.
+Though mild/early cases are still mostly treated
+with NSAIDs only, the current recommendation
+is to add DMARDs as soon as the diagnosis of
+RA is confirmed. However, use of DMARDs inearly/mild RA should be weighed against their
+potential adverse effects, which may be serious.
+More than one DMARD may be used con-
+currently; advanced cases may require 2 or 3 drugs
+together, because all DMARDs tend to lose
+effectiveness with time.
+CLASSIFICATION
+I.Disease modifying antirheumatic drugs
+(DMARDs)
+A. Nonbiological drugs
+1.Immunosuppressants: Methotrexate,
+Azathioprine, Cyclosporine
+2. Sulfasalazine
+3. Chloroquine or Hydroxychloroquine
+4. Leflunomide
+B.Biological agents
+1.TNF inhibitors: Etanercept, Infliximab,
+Adalimumab
+2.IL-1 antagonist: Anakinra
+II.Adjuvant drugs
+Corticosteroids: Prednisolone and others
+(Gold and penicillamine are obsolete DMARDs.)
+Nonbiological drugs
+1. Immunosuppressants (see Ch. 63)
+Methotrexate (Mtx) This dihydrofolate reductase
+inhibitor has prominent immunosuppressant and
+antiinflammatory property. Beneficial effects in
+RA are probably related to inhibition of cytokine
+production, chemotaxis and cell-mediated immune
+reaction. Induction of oral low-dose (7.515 mg)
+weekly Mtx regimen has improved acceptability
+of this drug in RA. Onset of symptom relief is
+relatively rapid (46 weeks), therefore preferred222
+SECTION 4RESPIRATORY SYSTEM DRUGS
+ Release of phospholipids from cell membrane
+followed by mediator synthesis (within
+minutes):  PGs, LTs, PAF.
+ Activation of genes followed by protein
+synthesis (over hours): Interleukins, TNF
+These mediators together constrict bronchial
+smooth muscle, cause mucosal edema, hyperemia
+and produce viscid secretions, all resulting in
+reversible airway obstruction. The inflammation
+perpetuates itself by cell-to-cell communication
+and recruitment of more and more inflammatory
+cells. Bronchial smooth muscle hypertrophy,
+increase in the population of mucus secreting cells
+and blood vessels  occurs over time and damage
+to bronchial epithelium accentuates the hyper-
+reactivity. Vagal discharge to bronchial muscle
+is enhanced reflexly. Airway remodeling
+progressively worsens the disease.
+Chronic obstructive pulmonary disease (COPD)  is also
+an inflammatory disease of the lungs characterized by
+progressive emphysema (alveolar destruction) and bronchiolar
+fibrosis in variable proportions. Loss of bronchiolar elasticity
+leads to closure of smaller air tubes during expiration. The
+airway obstruction is accentuated during exercise causing
+shortness of breath. The expiratory airflow limitation does
+not fluctuate markedly over long periods of time, but there
+are exacerbations precipitated by respiratory infections,
+pollutants, etc. It is clearly related to smoking and charac-
+teristically starts after the age of 40. Quiting smoking reduces
+the rate of decline in lung function. Bronchodilators prevent
+closure of peripheral air tubes during expiration and afford
+symptomatic relief in COPD patients, but improvement in
+forced expiratory volume in 1st second (FEV 1) following
+inhalation of a shortacting 2 agonist is generally <15%.
+An increasing part of airway obstruction is irreversible.
+APPROACHES TO TREATMENT
+1.Prevention of AG:AB reaction avoidance
+of antigen, hyposensitizationpossible in ext-
+rinsic asthma and if antigen can be identified.
+2.Neutralization of IgE (reaginic antibody) 
+Omalizumab.
+3.Suppression of inflammation and bronchial
+hyperreactivity corticosteroids.
+4.Prevention of release of mediators mast
+cell stabilizers.
+5.Antagonism of released mediators leuko-
+triene antagonists, antihistamines, PAF
+antagonists.6.Blockade of constrictor neurotransmitter 
+anticholinergics.
+7.Mimicking dilator neurotransmitter sympa-
+thomimetics.
+8.Directly acting bronchodilators methylxan-
+thines.
+CLASSIFICATION
+I.Bronchodilators
+A.2 Sympathomimetics:  Salbutamol, Terbutaline,
+Bambuterol, Salmeterol, Formoterol,
+Ephedrine.
+B.Methylxanthines: Theophylline (anhydrous),
+Aminophylline, Choline theophyllinate,
+Hydroxyethyl theophylline, Theophylline
+ethanolate of piperazine, Doxophylline.
+C.Anticholinergics:  Ipratropium bromide,
+Tiotropium bromide.
+II.Leukotriene antagonists
+Montelukast, Zafirlukast.
+III.Mast cell stabilizers
+Sodium cromoglycate, Ketotifen.
+IV.Corticosteroids
+A.Systemic:  Hydrocortisone, Prednisolone and
+others.
+B.Inhalational:  Beclomethasone dipropionate,
+Budesonide, Fluticasone propionate, Fluniso-
+lide, Ciclesonide.
+V.Anti-IgE antibody
+Omalizumab
+SYMPATHOMIMETICS (see Ch. 9)
+Adrenergic drugs cause bronchodilatation through
+2 receptor stimulation  increased cAMP forma-
+tion in bronchial muscle cell  relaxation. In
+addition, increased cAMP in mast cells and other
+inflammatory cells decreases mediator release.
+Since 2 receptors on inflammatory cells
+desensitize quickly, the contribution of this action
+to the beneficial effect of 2 agonists in asthma
+where airway inflammmation is chronic, is
+uncertain, and at best minimal. Adrenergic drugs
+are the mainstay of treatment of reversible airway252
+SECTION 5HORMONES AND RELATED DRUGS
+T4 therapy. Nonfunctional nodules and those non-
+responsive to TSH (that are associated with low
+TSH levels) do not respond and should not be
+treated with levothyroxine. T4 therapy should be
+stopped if the nodule does not decrease in size
+within 6 months, and when it stops regressing
+after the initial response.
+6. Papillary carcinoma of thyroid This
+type of cancer is often responsive to TSH. In
+nonresectable cases, full doses of T4 suppress
+endogenous TSH production and may induce
+temporary regression.
+7. Empirical uses T4 has been sometimes used in the
+following conditions without any rationale; response is
+unpredictable.
+Refractory anaemias.
+Mental depression
+Menstrual disorders, infertility not corrected by usual
+treatment.
+Chronic/non-healing ulcers.
+Obstinate constipation.
+Thyroxine is not to be used for obesity and as a hypo-
+cholesterolemic agent.
+THYROID INHIBITORS
+These are drugs used to lower the functional
+capacity of the hyperactive thyroid gland.
+Thyrotoxicosis is due to excessive secretion
+of thyroid hormones. The two main causes are
+Graves disease  and toxic nodular goiter . Graves
+disease is an autoimmune disorder: IgG class of
+antibodies to the TSH receptor are detected in
+blood. They bind to and stimulate thyroid cells,
+and produce other TSH like effects. Due to feed-
+back inhibition, TSH levels are low. The accom-
+panying exophthalmos is due to autoimmune
+inflammation of periorbital tissues.
+Toxic nodular goiter, which produces thyroid
+hormone independent of TSH, mostly supervenes
+on old nontoxic goiters. It is more common in
+the elderly; ocular changes are generally absent.
+CLASSIFICATION
+1.Inhibit hormone synthesis (Antithyroid
+drugs)
+Propylthiouracil, Methimazole,  Carbimazole.2.Inhibit iodide trapping (Ionic inhibitors)
+Thiocyanates (SCN), Perchlorates (ClO4),
+Nitrates (NO3).
+3.Inhibit hormone release
+Iodine, Iodides of Na and K, Organic iodide.
+4.Destroy thyroid tissue
+Radioactive iodine (131I, 125I, 123I).
+Compounds in groups 1 and 2 may be collec-
+tively called goitrogens  because, if given in excess,
+they cause enlargement of thyroid by feedback
+release of TSH.
+In addition, certain drugs used in high doses for prolonged
+periods cause hypothyroidism/goiter as a side effect:
+ Lithium: inhibits thyroid hormone release.
+ Amiodarone: inhibits peripheral conversion of T 4 to T3;
+also interferes with thyroid hormone action.
+ Sulfonamides, paraaminosalicylic acid: inhibit thyro-
+globulin iodination and coupling reaction.
+ Phenobarbitone, phenytoin, carbamazepine, rifampin:
+induce metabolic degradation of T 4/T3.
+Goitrinfound in plants (cabbage, turnip, mustard, etc.),
+is the cause of goiter in cattle who feed on these plants.
+May contribute to endemic goiter in certain iodine deficient
+regions.
+ANTITHYROID DRUGS (Thioamides)
+By convention, only the hormone synthesis
+inhibitors are called antithyroid drugs, though
+this term has also been applied to all thyroid
+inhibitors.
+Thiourea derivatives were found to produce goiter
+and hypothyroidism in rats in the 1940s. Open chain
+compounds were found to be toxic. Subsequently, methyl
+and propyl thiouracil and thioimidazole derivatives
+methimazole and carbimazole were found to be safe and
+effective.
+Antithyroid drugs bind to the thyroid
+peroxidase and prevent oxidation of iodide/
+iodotyrosyl residues, thereby;
+(i) Inhibit iodination of tyrosine residues in
+thyroglobulin
+(ii) Inhibit coupling of iodotyrosine residues to
+form T 3 and T 4.
+Action (ii) has been observed at lower
+concentration of antithyroid drugs than action (i).
+Thyroid colloid is depleted over time and blood
+levels of T 3/T4 are progressively lowered.270
+SECTION 5HORMONES AND RELATED DRUGS
+fine powder delivered through a nebulizer controlled meal-
+time glycaemia, but was not suitable for round-the-clock
+basal effect. Attempts are being made to overcome the
+shortcomings.
+4.Insulin pumps Portable infusion devices connected
+to a subcutaneously placed cannulaprovide continuous
+subcutaneous insulin infusion (CSII). Only regular insulin
+or a fast acting insulin analogue is used. The pump can
+be programmed to deliver insulin at a low basal rate (approx.
+1 U/hr) and premeal boluses (415 times the basal rate)
+to control post-prandial glycaemia. Though, theoretically more
+appealing, no definite advantage of CSII over multidose s.c.
+injection has been demonstrated. Moreover, cost, strict
+adherence to diet, exercise, care of the device and cannula,
+risk of pump failure, site infection, are too demanding on
+the patient. The CSII may be appropriate for selected type
+2 DM cases only.
+5.Implantable pumps Consist of an electromechanical
+mechanism which regulates insulin delivery from a percu-
+taneously refillable reservoir. Mechanical pumps, propellant
+driven and osmotic pumps have been utilized.
+6.Other routes of insulin delivery Intraperitoneal, oral
+(by complexing insulin into liposomes or coating it with
+impermeable polymer) and rectal routes are being tried. These
+have the advantage of providing higher concentrations in
+the portal circulation, which is more physiological.
+ORAL HYPOGLYCAEMIC DRUGS
+These drugs lower blood glucose levels and are
+effective orally. The chief draw back of insulin
+isit must be given by injection. Orally active
+drugs have always been saught.
+The early sulfonamides tested in 1940s produced hypo-
+glycaemia as side effect. Taking this lead, the first clinically
+acceptable sulfonylurea tolbutamide  was introduced in 1957.
+Others followed soon after. In the 1970s many so called
+second generation sulfonylureas were developed which are
+20100 times more potent. Clinically useful biguanide
+phenformin  was produced parallel to sulfonylureas in 1957.
+Newer approaches have constantly been explored and
+have lately yielded thiazolidinediones , meglitinide analogues ,
+-glucosidase inhibitors  and the latest are dipeptidyl
+peptidase-4 (DPP-4) inhibitors .
+CLASSIFICATION
+A.Enhance Insulin secretion
+1.Sulfonylureas (K ATP Channel blockers)
+First generation: Tolbutamide
+Second generation: Glibenclamide (Glyburide),
+Glipizide, Gliclazide, Glimepiride2.Meglitinide/phenylalanine analogues
+Repaglinide, Nateglinide
+3.Glucagon-like peptide-1 (GLP-1) receptor
+agonists (Injectable drugs)
+Exenatide, Liraglutide
+4.Dipeptidyl peptidase-4 (DPP-4) inhibitors
+Sitagliptin, Vildagliptin, Saxagliptin, Alogliptin,
+Linagliptin
+B.Overcome Insulin resistance
+1.Biguanide (AMP K activator)
+Metformin
+2.Thiazolidinediones (PPAR  activator)
+Pioglitazone
+C.Miscellaneous antidiabetic drugs
+1.-Glucosidase inhibitors
+Acarbose, Miglitol, Voglibose
+2.Amylin analogue
+Pramlintide
+3.Dopamine-D2 receptor agonist
+Bromocriptin
+4.Sodium-glucose cotransport-2 (SGLT-2)
+inhibitor
+Dapagliflozin
+Sulfonylureas (KATP Channel blockers)
+The generic formula of sulfonylureas (SUs) is
+All SUs have similar pharmacological profile, their
+sole significant action being lowering of blood
+glucose level in normal subjects and in type 2
+diabetics, but not in type 1 diabetics. Being more
+potent and clinically superior, only the second
+generation SUs are employed now. All first
+generation compounds have been discontinued
+except tolbutamide which is infrequently used.
+Mechanism of action Sulfonylureas provoke
+a brisk release of insulin from pancreas, the
+mechanism of which is detailed in Fig. 19.6. The
+rate of insulin secretion at any glucose concen-
+tration is increased, i.e. insulin release is provoked
+even at low-glucose concentration risking
+production of severe and unpredictable hypo-
+glycaemia. In type 2 DM the kinetics of insulin
+release in response to glucose or meals is delayed
+357
+CHAPTER 25SKELETAL MUSCLE RELAXANTS
+on neuromuscular transmission and on muscle
+fibres, but reduce decerebrate rigidity, upper
+motor neurone spasticity and hyperreflexia.
+The prominent differences between peri-
+pherally and centrally acting muscle relaxants
+are listed in Table 25.3.
+CLASSIFICATION
+(i)Mephenesin Mephenesin,
+congeners Carisoprodol,
+Chlorzoxazone,
+Chlormeza none,
+Methocarbamol.
+(ii)Benzodiazepines Diazepam and others.
+(iii)GABA mimetic Baclofen,
+Thiocolchicoside
+(iv)Central 2 agonist Tizanidine
+1. Mephenesin It was the first drug found to cause muscle
+relaxation in animals without producing unconsciousness and
+was called internuncial neurone blocking agent  because its
+primary site of action is the spinal internuncial neurone which
+modulates reflexes maintaining muscle tone. It is not used
+clinically because orally it causes marked gastric irritation,
+and injected i.v., it causes thrombophlebitis, haemolysis and
+fall in BP. It has been included in counterirritant ointments
+(MEDICREME, RELAXYL)  where its irritant rather than muscle
+relaxant property could be affording relief.
+2. Carisoprodol It has a favourable muscle
+relaxant: sedative activity ratio with weak anal-
+gesic, antipyretic and anticholinergic properties.
+It is used in musculoskeletal disorders associated
+with muscle spasm.
+CARISOMA 350 mg tab; one tab. TDS-QID, SOMAFLAM
+175 mg + ibuprofen 400 mg tab.3. Chlorzoxazone It is pharmacologically
+similar to mephenesin, but has a longer duration
+of action and is better tolerated orally.
+FLEXON-MR 250 mg + ibuprofen 400 mg + paracetamol
+325 mg tab; ULTRAZOX  250 mg + diclofenac 50 mg +
+paracetamol 325 mg tab; MOBIZOX 500 mg + diclofenac
+50 mg + paracetamol 500 mg tab; PARAFON: 250 mg +
+paracetamol 300 mg tab, 12 tab TDS.
+4. Chlormezanone It has antianxiety and
+hypnotic actions as well, and has been used for
+tension states associated with increased muscle
+tone.
+DOLOBAK 100 mg + paracetamol 450 mg tab, 12 tab TDS.
+5. Methocarbamol It is less sedative and
+longer acting than mephenesin. Orally it has been
+used in reflex muscle spasms and chronic neuro-
+logical diseases. It can be injected i.v. without
+producing thrombophlebitis and haemolysis
+used for orthopedic procedures and tetanus.
+ROBINAX 0.5 g tab, 1 TDS: 100 mg/ml inj. for i.v. or i.m.
+use. ROBIFLAM 750 mg + ibuprofen 200 mg tab; NEUROMOL-
+MR 400 mg + paracetamol 500 mg tab.
+Clinical efficacy of none of the above drugs
+as muscle relaxant is well established. Gastric
+irritation and sedation are the most important
+side effects.
+6. Diazepam (see Ch. 29) It is the prototype
+of benzodiazepines (BZDs) which act in the brain
+on specific receptors enhancing GABAergic
+transmission. Muscle tone is reduced by supra-
+spinal rather than spinal action; muscle relaxant:
+sedative activity ratio is low. No gastric irritation
+occurs and it is very well tolerated, thoughTABLE 25.3 Comparative features of centrally and peripherally acting muscle relaxants
+Centrally acting Peripherally acting
+1. Decrease muscle tone without reducing Cause muscle paralysis, voluntary movements
+voluntary power lost
+2. Selectively inhibit polysynaptic reflexes in CNS Block neuromuscular transmission
+3. Cause some CNS depression No effect on CNS
+4. Given orally, sometimes parenterally Practically always given i.v.
+5. Used in chronic spastic conditions, Used for short-term purposes
+acute muscle spasms, tetanus (surgical operations)Local Anaesthetics ChapterChapterChapterChapterChapter 2626262626
+Local anaesthetics (LAs) are drugs which upon
+topical application or local injection cause rever-
+sible loss of sensory perception, especially of
+pain, in a restricted area of the body. They block
+generation and conduction of nerve impulse at
+any part of the neurone with which they come in
+contact, without causing any structural damage.
+Thus, not only sensory but also motor impulses
+are interrupted when a LA is applied to a mixed
+nerve, resulting in muscular paralysis and loss
+of autonomic control as well.
+Important differences between general and
+local anaesthesia are tabulated in Table 26.1.
+CLASSIFICATION
+Injectable anaesthetic
+Low potency, short duration
+Procaine
+Chloroprocaine
+Intermediate potency and duration
+Lidocaine (Lignocaine)
+PrilocaineHigh potency, long duration
+Tetracaine (Amethocaine)
+Bupivacaine
+Ropivacaine
+Dibucaine (Cinchocaine)
+Surface anaesthetic
+Soluble Insoluble
+Cocaine Benzocaine
+Lidocaine Butylaminobenzoate
+Tetracaine (Butamben)
+Benoxinate Oxethazaine
+Mepivacaine, Etidocaine, Articaine, Dyclonine, Proparacaine
+are other local anaesthetics, occasionally used in some
+countries.
+Some other drugs, e.g. propranolol, chlorpromazine, H 1
+antihistaminics, quinine have significant LA activity, but are
+not used for this purpose because of local irritancy or other
+prominent systemic activity. Local anaesthesia can be
+produced by cooling as well, e.g. application of ice, CO 2
+snow, ethylchloride spray.
+CHEMISTRY
+The clinically useful LAs are weak bases with
+amphiphilic property. A hydrophilic secondary
+TABLE 26.1 Comparative features of general and local anaesthesia
+General Local
+anaesthesia anaesthesia
+ 1. Site of action CNS Peripheral nerves
+ 2. Area of body involved Whole body Restricted area
+ 3. Consciousness Lost Unaltered
+ 4. Care of vital functions Essential Usually not needed
+ 5. Physiological trespass High Low
+ 6. Poor health patient Risky Safer
+ 7. Use in non-cooperative patient Possible Not possible
+ 8. Major surgery Preferred Cannot be used
+ 9. Minor surgery Not preferred Preferred377
+CHAPTER 27GENERAL ANAESTHETICS
+(b)Closed system The patient rebreaths the exhaled gas
+mixture after it has circulated through sodalime which absorbs
+CO2. Only as much O 2 and anaesthetic as have been taken up by
+the patient are added to the circuit. Flow rates are low. This is
+especially useful for expensive and explosive agents (little
+anaesthetic escapes in the surrounding air). Halothane, isoflurane,
+desflurane can be used through closed system. However, control
+of inhaled anaesthetic concentration is imprecise.
+(c)Semiclosed system Partial rebreathing is allowed
+through a partially closed valve. Conditions are intermediate
+with moderate flow rates.
+Properties of an ideal anaesthetic
+A.For the patient It should be pleasant, non-
+irritating, should not cause nausea or vomiting.
+Induction and recovery should be fast with no
+after effects.
+B.For the surgeon It should provide adequate
+analgesia, immobility and muscle relaxation.
+It should be noninflammable and nonexplosive
+so that cautery may be used.
+C.For the anaesthetist Its administration
+should be easy, controllable and versatile.
+ Margin of safety should be wideno fall in
+BP. Heart, liver and other organs should not be
+affected.
+ It should be potent so that low concentrations
+are needed and oxygenation of the patient does
+not suffer.
+ Rapid adjustments in depth of anaesthesia
+should be possible.
+ It should be cheap, stable and easily stored.
+ It should not react with rubber tubing or soda
+lime.
+The important physical and anaesthetic proper-
+ties of inhalational anaesthetics are presented
+in Table 27.1.
+CLASSIFICATION
+Inhalational
+Gas Volatile liquids
+Nitrous oxide Ether
+Halothane
+Isoflurane
+Desflurane
+Sevoflurane
+TABLE 27.1 Physical and anaesthetic properties of inhalational anaesthetics
+Anaesthetic Boiling Inflamma- Irritancy Oil: Gas Blood: Gas MAC Induction Muscle
+point (°C) bility (odour) partition partition (%) relaxation
+coefficient* coefficient*
+ 1. Ether 35 Infl. + +++ 65 12.1 1.9 Slow V. good
+Explo. (Pungent)
+ 2. Halothane 50 Noninfl.  224 2.3 0.75 Interm. Fair
+(Pleasant)
+ 3. Isoflurane 48 Noninfl. ± 99 1.4 1.2 Interm. Good
+(Unpleasant)
+ 4. Desflurane 24 Noninfl. + 19 0.42 6.0 Fast Good
+(Unpleasant)
+ 5. Sevoflurane 59 Noninfl.  50 0.68 2.0 Fast Good
+(Pleasant)
+ 6. Nitrous oxide Gas Noninfl.  1.4  0.47 105 Fast Poor
+*At 37°C; Oil: gas and blood: gas partition coefficients are measures of solubility of the anaesthetic in lipid and blood
+respectively.
+MACMinimal alveolar concentration; Infl.Inflammable; Explo.Explosive; Interm.Intermediate398
+SECTION 7DRUGS ACTING ON CENTRAL NERVOUS SYSTEM
+Fig. 29.1: A normal sleep cycle
+occur, which may be recalled if the subject is aroused. Heart
+rate and BP fluctuate; respiration is irregular. Muscles are
+fully relaxed, but irregular body movements occur occasionally.
+Erection occurs in males. About 2030% of sleep time is spent
+in REM.
+Normally stages 0 to 4 and REM occur in succession
+over a period of 80100 min. Then stages 14REM are
+repeated cyclically.
+CLASSIFICATION
+1.Barbiturates
+Long acting Short acting Ultra-short
+acting
+Phenobarbitone Butobarbitone Thiopentone
+Pentobarbitone Methohexitone
+2.Benzodiazepines
+Hypnotic Antianxiety Anticonvulsant
+Diazepam Diazepam Diazepam
+Flurazepam Chlordiazepoxide Lorazepam
+Nitrazepam Oxazepam Clonazepam
+Alprazolam Lorazepam Clobazam
+Temazepam Alprazolam
+Triazolam
+3.Newer nonbenzodiazepine hypnotics
+Zopiclone       Zolpidem       Zaleplon
+Chloral hydrate, Triclophos, Paraldehyde, Glutethimide,
+Methyprylon, Methaqualone and Meprobamate are historical
+sedative-hypnotics no longer used. They are described in earlier
+editions of this book.In addition some antihistaminics (promethazine,
+diphenhydramine), some neuroleptic/antidepressants
+(chlorpromazine, amitriptyline), some anticholinergic (hyoscine)
+and opioids (morphine, pethidine) have significant sedative
+action, but are not reliable for treatment of insomnia.
+BARBITURATES
+Barbiturates have been popular hypnotics and
+sedatives of the last century upto 1960s, but are
+not used now to promote sleep or to calm patients.
+However, they are described first because they
+are the prototype of CNS depressants.
+Barbiturates are substituted derivatives of barbituric acid
+(malonyl urea). Barbituric acid as such is not a hypnotic but
+compounds with alkyl or aryl substitution on C5 are.
+Replacement of O with S at C2 yields thiobarbiturates  which
+are more lipid-soluble and more potent. Barbiturates have
+variable lipid solubility, the more soluble ones are more potent
+and shorter acting. They are insoluble in water but their sodium
+salts dissolve yielding highly alkaline solution.
+PHARMACOLOGICAL ACTIONS
+Barbiturates are general depressants for all
+excitable cells, the CNS is most sensitive where
+the effect is almost global, but certain areas are
+more susceptible.
+1. CNS Barbiturates produce dose-dependent
+effects:
+sedation  sleep  anaesthesia  coma.412
+SECTION 7DRUGS ACTING ON CENTRAL NERVOUS SYSTEM
+CLASSIFICATION
+1.Barbiturate Phenobarbitone
+2.Deoxybarbiturate Primidone
+3.Hydantoin Phenytoin
+Fosphenytoin
+4.Iminostilbene Carbamazepine
+Oxcarbazepine
+5.Succinimide Ethosuximide
+6.Aliphatic carboxylic Valproic acid
+acid (sodium
+valproate)
+Divalproex
+7.Benzodiazepines Clonazepam
+Diazepam
+Lorazepam
+Clobazam
+8.Phenyltriazine Lamotrigine
+9.Cyclic GABA Gabapentin
+analogues Pregabalin
+10.Newer drugs Topiramate
+Zonisamide
+Levetiracetam
+Vigabatrin
+Tiagabine
+Lacosamide
+Felbamate, rufinamide  and few other newer antiseizure drugs
+have been introduced in some countries as second line/add-on
+drugs for refractory partial seizures.
+Chemistry Most of the older anticonvulsants
+have close structural similarity. This is depicted in
+Fig. 30.1. However, benzodiazepines, carbamaze-
+pine, valproic acid and the newer drugs are chemi-
+cally diverse. Presence of a phenyl substitution
+confers activity against tonic-clonic seizures.
+Phenobarbitone  (see Ch. 29)
+Phenobarbitone was the first efficacious anti-
+epileptic introduced in 1912. The mechanism
+of CNS depressant action of barbiturates is
+described on p. 399. The same may apply to
+anticonvulsant action. Enhancement of GABA A
+receptor mediated synaptic inhibition appears to
+be most important mechanism. However, pheno-
+barbitone has specific anticonvulsant activity
+which is not entirely dependent on general CNS
+depression. Quantitative differences in thedifferent facets of action (GABA-facilitatory,
+GABA-mimetic, antiglutamate, Ca2+ entry
+reduction) have been noted for phenobarbitone
+compared to hypnotic barbiturates. The higher
+anticonvulsant: hypnotic ratio of phenobarbitone
+may be due to its minimal effect on Ca2+ channels
+and glutamate release compared to hypnotic bar-
+biturates. With continued use of phenobarbitone
+sedation wanes off but not anticonvulsant action.
+It has a wide spectrum of anticonvulsant
+propertyraises seizure threshold as well as
+limits spread and suppresses kindled seizures.
+Phenobarbitone has slow oral absorption and
+a long plasma t½ (80120 hours), is metabo-
+lized in liver as well as excreted unchanged by
+kidney. Steady-state concentrations are reached
+after 23 weeks, and a single daily dose can
+be used for maintenance.
+The major drawback of phenobarbitone as an
+antiepileptic is its sedative action. Long term
+administration (as needed in epilepsy) may
+produce additional side effects likebehavioral
+abnormalities, diminution of intelligence, impair-
+ment of learning and memory, hyperactivity in
+children, mental confusion in older people.
+Rashes, megaloblastic anaemia and osteo-
+malacia (similar to that with phenytoin) occur
+in some patients on prolonged use.
+Fig. 30.1: Chemical structures of classical
+anticonvulsant drugsAntiparkinsonian Drugs ChapterChapterChapterChapterChapter 3131313131
+These are drugs that have a therapeutic effect
+in parkinsonism.
+Parkinsonism It is an extrapyramidal motor
+disorder characterized by rigidity, tremor  and
+hypokinesia  with secondary manifestations like
+defective posture and gait, mask-like face and
+sialorrhoea; dementia may accompany. If untrea-
+ted the symptoms progress over several years
+to end-stage disease in which the patient is rigid,
+unable to move, unable to breathe properly;
+succumbs mostly to chest infections/embolism.
+Parkinsons disease (PD) is a progressive degenerative
+disorder, mostly affecting older people, first described by
+James Parkinson in 1817. Majority of the cases are idiopathic,
+some are arteriosclerotic while postencephalitic are now rare.
+Wilsons disease (hepatolenticular degeneration) due to
+chronic copper poisoning, is a rare cause.
+The most consistent lesion in PD is degeneration of
+neurones in the substantia nigra pars compacta (SN-PC) and
+the nigrostriatal (dopaminergic) tract. This results in deficiency
+of dopamine (DA) in the striatum which controls muscle tone
+and coordinates movements. An imbalance between
+dopaminergic (inhibitory) and cholinergic (excitatory) system
+in the striatum occurs giving rise to the motor defect. Though
+the cholinergic system is not primarily affected, its sup-
+pression (by anticholinergics) tends to restore balance.
+The cause of selective degeneration of nigrostriatal
+neurones is not precisely known, but appears to be
+multifactorial. Oxidation of DA by MAO-B and aldehyde
+dehydrogenase generates hydroxyl free radicals (OH) in the
+presence of ferrous iron (basal ganglia are rich in iron).
+Normally these free radicals are quenched by glutathione and
+other protective mechanisms. Age-related and/or otherwise
+acquired defect in protective mechanism allows the free
+radicals to damage lipid membranes and DNA resulting in
+neuronal degeneration. Genetic predisposition may contribute
+to the high vulnerability of substantia nigra neurones.
+Ageing induces defects in mitochondrial electron
+transport chain. Environmental toxins and/or genetic factors
+may accentuate these defects in specific areas. A synthetic
+toxin N-methyl-4-phenyl tetrahydropyridine (MPTP), which
+occurred as a contaminant of some illicit drugs, produces
+nigrostriatal degeneration and manifestations similar to PD
+by impairing energy metabolism in dopaminergic neurones.
+It has been proposed that MPTP-like chemicals may be presentin the environment, small quantities of which accelerate age
+related or otherwise predisposed neuronal degeneration of
+parkinsonism, but there is no proof.
+Excess of the excitatory transmitter glutamate can cause
+excitotoxic neuronal death by inducing Ca2+ overload through
+NMDA receptors.
+Drug-induced temporary parkinsonism due to neuro-
+leptics, metoclopramide (dopaminergic blockers) is now fairly
+common, while that due to reserpine (DA depleter) is historical.
+Belladonna alkaloids  had been empirically used
+in PD. A breakthrough was made in 1967 when
+levodopa  was found to produce dramatic
+improvement. Its use was based on sound scien-
+tific investigations made in the preceding 10
+years that:
+ DA is present in the brain;
+ it (along with other monoamines) is depleted
+by reserpine;
+ reserpine induced motor defect is reversed
+by DOPA (the precursor of DA);
+ striatum of patients dying of PD was deficient
+in DA.
+Thus, parkinsonism was characterized as a DA
+deficiency state and levodopa was used to make
+good this deficiency, because DA itself does not
+cross the blood-brain barrier. In the subsequent
+years, a number of levodopa potentiators and DA
+agonists have been developed as adjuvants/
+alternatives.
+CLASSIFICATION
+I.Drugs affecting brain dopaminergic
+system
+(a)Dopamine precursor  : Levodopa (l-dopa)
+(b)Peripheral decarboxylase inhibitors  :
+Carbidopa, Benserazide.
+(c)Dopaminergic agonists : Bromocriptine,
+Ropinirole, Pramipexole
+(d)MAO-B inhibitor: Selegiline, Rasagiline
+(e)COMT inhibitors: Entacapone, Tolcapone436
+SECTION 7DRUGS ACTING ON CENTRAL NERVOUS SYSTEM
+(c)Obsessive-compulsive disorder Limited abnormality
+of thought or behaviour; recurrent intrusive thoughts or ritual-
+like behaviours which the patient realizes are abnormal or stupid,
+but is not able to overcome even on voluntary effort. The
+obsessions generate considerable anxiety and distress.
+(d)Reactive depression due to physical illness, loss, blow
+to self-esteem or bereavement, but is excessive or dispro-
+portionate.
+(e)Post-traumatic stress disorder Varied symptoms fol-
+lowing distressing experiences like war, riots, earthquakes, etc.
+(f)Hysterical Dramatic symptoms resembling serious
+physical illness, but situational, and always in the presence
+of others; the patient does not feign but actually undergoes
+the symptoms, though the basis is only psychic and not
+physical.
+Pathophysiology of mental illness is not clear,
+though some ideas have been formed, e.g. dopa-
+minergic overactivity in the limbic system may
+be involved in schizophrenia and mania, while
+monoaminergic (NA, 5-HT) deficit may underlie
+depression. Treatment is empirical, symptom
+oriented and not disease specific. However, it
+is highly effective in many situations. Depending
+on the primary use, the psychotropic drugs may
+be grouped into:
+1.Antipsychotic (neuroleptic, ataractic,
+major tranquillizer) useful in all types of
+functional psychosis, especially schizophrenia.
+(The term Neuroleptic is applied to chlorpromazine/haloperidol-
+like conventional antipsychotic drugs which have potent D2
+receptor blocking activity and produce psychic indifference,
+emotional quietening with extrapyramidal symptoms, but
+without causing ataxia or cognitive impairment.)
+2.Antimanic (mood stabiliser) used to control
+mania and to break into cyclic affective disorders.
+3.Antidepressants used for minor as well as
+major depressive illness, phobic states,
+obsessive-compulsive behaviour, and certain
+anxiety disorders.
+4.Antianxiety (anxiolytic-sedative, minor tran-
+quillizer) used for anxiety and phobic states.
+5.Psychotomimetic (psychedelic, psycho-
+dysleptic, hallucinogen). They are seldom used
+therapeutically, but produce psychosis-like states.
+Majority of them are drugs of abuse, e.g. cannabis,
+LSD.
+Tranquillizer It is an old term meaning a drug which
+reduces mental tension and produces calmness withoutinducing sleep or depressing mental faculties. This term was
+used to describe the effects of reserpine or chlorpromazine.
+However, it has been interpreted differently by different people;
+some extend it to cover both chlorpromazine-like and
+antianxiety drugs, others feel that it should be restricted to
+the antianxiety drugs only. Their division into major and minor
+tranquillizers is not justified, because the minor tranquillizers
+(diazepam-like drugs) are not less important drugs: they are
+more frequently prescribed and carry higher abuse liability
+than the major tranquillizers (chlorpromazine-like drugs). The
+term tranquillizer is, therefore, best avoided.
+ANTIPSYCHOTIC DRUGS
+(Neuroleptics)
+These are drugs having a salutary therapeutic
+effect in psychoses.
+CLASSIFICATION
+1.Phenothiazines
+Aliphatic side chain : Chlorpromazine
+Triflupromazine
+Piperidine side chain : Thioridazine
+Piperazine side chain : Trifluoperazine
+Fluphenazine
+2.Butyrophenones Haloperidol
+Trifluperidol
+Penfluridol
+3.Thioxanthenes Flupenthixol
+4.Other heterocyclics Pimozide, Loxapine
+5.Atypical antipsychotics
+Clozapine Aripiprazole
+Risperidone Ziprasidone
+Olanzapine Amisulpiride
+Quetiapine Zotepine
+Drugs Used in Mental Illness:
+Antidepressant and Antianxiety
+DrugsChapterChapterChapterChapterChapter 3333333333
+Major depression and mania are two extremes
+of affective disorders which refer to a patho-
+logical change in mood state. Major depression
+is characterized by symptoms like sad mood,
+loss of interest and pleasure, low energy,
+worthlessness, guilt, psychomotor retardation or
+agitation, change in appetite and/or sleep,
+melancholia, suicidal thoughts, etc. It may be
+a unipolar or a bipolar disorder in which cycles
+of mood swings from mania to depression occur
+over time. The mood change may have a
+psychotic basis with delusional thinking or
+occur in isolation and induce anxiety. On the
+other hand, pathological anxiety may lead to
+depression. Anxiety and depression are the
+leading psychiatric disorders now.
+ANTIDEPRESSANTS
+These are drugs which can elevate mood in
+depressive illness. Practically all antidepressants
+affect monoaminergic transmission in the brain
+in one way or the other, and many of them have
+other associated properties. Over the past three
+decades, a large number of antidepressants with
+an assortment of effects on reuptake/metabolism
+of biogenic amines, and on pre/post-junctional
+aminergic/cholinergic receptors have become
+available so that a cogent classification is
+difficult. The following working classification
+may be adopted.
+CLASSIFICATION
+I.Reversible inhibitors of MAO-A (RIMAs)
+Moclobemide, Clorgyline
+II.Tricyclic antidepressants (TCAs)
+A.NA + 5-HT reuptake inhibitors
+Imipramine, Amitriptyline,Trimipramine, Doxepin, Dothiepin,
+Clomipramine
+B.Predominantly NA reuptake inhibitors
+Desipramine, Nortriptyline, Amoxapine,
+Reboxetine
+III.Selective serotonin reuptake inhibitors
+(SSRIs)
+Fluoxetine, Fluvoxamine, Paroxetine,
+Sertraline, Citalopram, Escitalopram,
+Dapoxetine
+IV.Serotonin and noradrenaline reuptake
+inhibitors (SNRIs)
+Venlafaxine, Duloxetine
+V.Atypical antidepressants
+Trazodone, Mianserin, Mirtazapine,
+Bupropion, Tianeptine, Amineptine,
+Atomoxetine
+Many other drugs like Protriptyline, Maprotiline, Nafazodone,
+etc. are marketed in other countries.
+MAO INHIBITORS
+MAO is a mitochondrial enzyme involved in the oxidative
+deamination of biogenic amines (Adr, NA, DA, 5-HT). Two
+isoenzyme forms of MAO have been identified.
+MAO-A: Preferentially deaminates 5-HT and NA, and
+is inhibited by clorgyline, moclobemide.
+MAO-B: Preferentially deaminates phenylethylamine and
+is inhibited by selegiline.
+Dopamine is degraded equally by both isoenzymes.
+Their distribution also differs. Peripheral adrenergic nerve
+endings, intestinal mucosa and human placenta contain
+predominantly MAO-A, while MAO-B predominates in certain
+areas (mainly serotonergic) of brain and in platelets. Liver
+contains both isoenzymes.
+Two hydrazine drugs isoniazid and iproniazid  were
+used for tuberculosis in 1951; the latter was especially found
+to cause disproportionate elevation of mood. Its capacity to
+inhibit degradation of biogenic amines was soon discovered
+and was believed to be responsible for the mood elevating
+action. Its less hepatotoxic congeners like phenelzine and465
+CHAPTER 33ANTIDEPRESSANT AND ANTIANXIETY DRUGS
+8.Migraine:  Amitriptyline  has some prophy-
+lactic value, especially in patients with mixed
+headaches.
+9.Pruritus: Some tricyclics have antipruritic
+action. Topical doxepin has been used to relieve
+itching in atopic dermatitis, lichen simplex, etc.
+NOCTADERM 5% cream.
+ANTIANXIETY DRUGS
+Anxiety It is an emotional state, unpleasant
+in nature, associated with uneasiness, discomfort
+and concern or fear about some defined or
+undefined future threat. Some degree of anxiety
+is a part of normal life. Treatment is needed
+when it is disproportionate to the situation and
+excessive. Some psychotics and depressed
+patients also exhibit pathological anxiety.
+Cardiac neurosis (unfounded fear of heart disease
+palpitation, functional precordial pain); g.i. neurosis (fixation
+on bowel movement, distention, eructation, reflux, acidity);
+social anxiety (fear of being observed and evaluated by
+others); obsessive-compulsive disorder (OCD), post-traumatic
+stress disorder and various forms of phobias are some specific
+types of anxiety disorders.
+Antianxiety drugs These are an ill-defined
+group of drugs, mostly mild CNS depressants,
+which are aimed to control the symptoms of
+anxiety, produce a restful state of mind without
+interfering with normal mental or physical
+functions. The anxiolytic-sedative drugs differ
+markedly from antipsychotics, and more closely
+resemble sedative-hypnotics. They:
+1. Have no therapeutic effect to control thought
+disorder of schizophrenia.
+2. Do not produce extrapyramidal side effects.
+3. Have anticonvulsant property.
+4. Produce physical dependence and carry abuse
+liability.
+5. Do not selectively block conditioned avoi-
+dance response in animals.
+CLASSIFICATION
+1.Benzodiazepines Diazepam
+Chlordiazepoxide
+Oxazepam
+Lorazepam, Alprazolam2.Azapirones Buspirone, Gepirone,
+Ispapirone
+3.Sedative Hydroxyzine
+antihistaminic
+4. blocker Propranolol
+In addition to the above drugs, antidepres-
+sants, especially the SSRIs and SNRIs are
+effective in OCD, phobias, panic and many types
+of severe generalized anxiety disorders.
+BENZODIAZEPINES
+The pharmacology of benzodiazepines (BZDs)
+as a class is described in Ch. 29.
+Some members have a slow and prolonged
+action, relieve anxiety at low doses without
+producing significant CNS depression. They have
+a selective taming effect on aggressive animals
+and suppress induced aggression. They also
+suppress the performance impairing effect of
+punishment. In contrast to barbiturates, they are
+more selective for the limbic system and have
+proven clinically better in both quality and
+quantity of improvement in anxiety and stress-
+related symptoms.
+At antianxiety doses, cardiovascular and
+respiratory depression is minor.
+Because anxiety is a common complaint and
+is a part of most physical and mental illness,
+and because the BZDs
+have little effect on other body systems
+have lower dependence producing liability
+than barbiturates and other sedatives;
+withdrawal syndrome is milder and delayed
+due to their long half lives
+are relatively safe even in gross overdosage,
+they are presently one of the widely used class
+of drugs. Potent BZDs like lorazepam and
+clonazepam injected i.m. have adjuvant role in
+the management of acutely psychotic and manic
+patients.
+BZDs act primarily by facilitating inhibitory
+GABAergic transmission, but other additional
+mechanisms of action have been suggested.
+Higher doses induce sleep and impair perfor-
+mance.474
+SECTION 7DRUGS ACTING ON CENTRAL NERVOUS SYSTEM
+4. Head injury: morphine is contraindicated in
+patients with head injury. Reasons are
+By retaining CO 2, it increases intracranial
+tension which will add to that caused by head
+injury itself.
+Even therapeutic doses can cause marked
+respiratory depression in these patients.
+Vomiting, miosis and altered mentation pro-
+duced by morphine interfere with assessment
+of progress in head injury cases.
+5. Hypotensive states and hypovolaemia exag-
+gerate fall in BP due to morphine.
+6. Undiagnosed acute abdominal pain: morphine
+can aggravate certain conditions, e.g. diverti-
+culitis, biliary colic, pancreatitis. Inflamed
+appendix may rupture. Morphine can be given
+after the diagnosis is established. Pentazocine,
+buprenorphine are less likely to aggravate biliary
+spasm.
+7. Elderly male: chances of urinary retention
+are high.
+8. Hypothyroidism, liver and kidney disease
+patients are more sensitive to morphine.
+9. Unstable personalities: are liable to continue
+with its use and become addicted.
+Interactions
+Phenothiazines, tricyclic antidepressants, MAO
+inhibitors, amphetamine and neostigmine poten-
+tiate morphine and other opioids, either by retar-
+ding its metabolism or by a pharmacodynamic
+interaction at the level of central neurotrans-
+mitters.
+Morphine retards absorption of many orally
+administered drugs by delaying gastric emptying.
+Dose: 1050 mg oral, 1015 mg i.m. or s.c. or 26 mg i.v.; 23 mg
+epidural/intrathecal; children 0.10.2 mg/kg. i.m. or s.c.
+MORPHINE SULPHATE 10 mg/ml inj; MORCONTIN 10, 30, 60,
+100 mg continuous release tabs; 30100 mg BD; RILIMORF 10,
+20 mg tabs, 60 mg SR tab.
+CLASSIFICATION OF OPIOIDS
+1.Natural opium alkaloids:  Morphine, Codeine
+2.Semisynthetic opiates : Diacetylmorphine
+(Heroin), Pholcodeine, Ethylmorphine.Many others likeHydromorphone, Oxymorphone, Hydro-
+codone, Oxycodone are not used in India.
+3.Synthetic opioids: Pethidine (Meperidine),
+Fentanyl, Methadone, Dextropropoxyphene,
+Tramadol.
+Many others likeLevorphanol, Dextromoramide, Dipipanone,
+Alfentanil, Sufentanil, Remifentanil are not available in India.
+1. Codeine It is methyl-morphine, occurs
+naturally in opium, and is partly converted in
+the body to morphine. It is less potent than
+morphine (1/10th as analgesic), also less effica-
+cious; is a partial agonist at  opioid receptor
+with a low ceiling effect. The degree of analgesia
+is comparable to aspirin (60 mg codeine ~ 600
+mg aspirin); can relieve mild to moderate pain
+only.
+However, codeine is more selective cough
+suppressant (1/3rd as potent as morphine);
+subanalgesic doses (1030 mg) suppress cough
+(see p. 220). Codeine has very low affinity for
+opioid receptors. The analgesic action has been
+ascribed to morphine generated by its demethy-
+lation by CYP2D6. Codeine fails to produce
+analgesia in subjects with polymorphic CYP2D6
+who cannot demethylate codeine. However,
+receptors involved in the antitussive action
+appear to be distinct, because they bind codeine
+as well as morphine.
+Codeine has good activity by the oral route
+(oral: parenteral ratio 1:2). A single oral dose
+acts for 46 hours. Constipation is a prominent
+side effect when it is used as analgesic. Codeine
+has been used to control diarrhoea ( see Ch. 48).
+Other side effects are milder. The abuse liability
+is low. Though codeine phosphate is water
+soluble and can be injected, parenteral pre-
+paration is not available.
+2. Pholcodeine , Ethylmorphine They have codeine
+like properties and have been used mainly as antitussive ( see
+p. 220); claimed to be less constipating.
+3. Heroin (Diamorphine, Diacetylmorphine) It is about 3
+times more potent than morphine; more lipid soluble, therefore
+enters the brain more rapidly, but duration of action is similar.
+It is considered to be more euphorient (especially on i.v.
+injection) and highly addicting. Because of its high potency,
+it has been favoured in illicit drug trafficking. The sedative,CNS Stimulants and
+Cognition EnhancersChapterChapterChapterChapterChapter 3535353535
+CNS STIMULANTS
+These are drugs whose primary action is to
+stimulate the CNS globally or to improve
+specific brain functions.
+The CNS stimulants mostly produce a
+generalized action which may, at high doses,
+result in convulsions. Given below is a working
+classification based primarily on the clinical use,
+because clearcut differences do not exist.
+CLASSIFICATION
+1.Convulsants Strychnine, Picrotoxin,
+Bicuculline, Pentylenetetrazol (PTZ).
+2.Analeptics Doxapram
+3.Psychostimulants Amphetamines,
+Methylphenidate, Atomoxetine, Modafinil,
+Armodafinil, Pemoline, Cocaine, Caffeine.
+Many other drugs are capable of causing CNS
+stimulation as side effect or at high doses.
+I.  CONVULSANTS
+1. Strychnine It is an alkaloid from the seeds of Strychnos
+nux-vomica,  and a potent convulsant. The convulsions are
+reflex, tonic-clonic and symmetrical. It has been labelled as a
+spinal convulsant because the dose producing convulsions is
+the same in spinal animals as in intact animals; actually it
+stimulates the whole cerebrospinal axis.
+Strychnine acts by blocking post-synaptic  inhibition
+produced by the inhibitory transmitter glycine. One of the sites
+that has been clearly demonstrated is the Renshaw cell-
+motoneurone junction in the spinal cord through which
+inhibition of antagonistic muscles is achieved. Due to loss of
+synaptic inhibition, any nerve impulse becomes generalized,
+resulting in apparent excitation and convulsions.
+There are no valid uses of strychnine now. Accidental
+poisonings, especially in children, do occur. Treatment of
+poisoning is similar to that of status epilepticus ( see Ch. 30).
+2. Picrotoxin Obtained from fish berries of East
+Indies Anamirta cocculus.  It is a potent convulsant
+convulsions are clonic, spontaneous and asymmetrical. The
+convulsions are accompanied by vomiting, respiratory andvasomotor stimulation. Though regarded as a medullary
+stimulant, it has little selectivity in site of action.
+Picrotoxin acts by blocking presynaptic  inhibition mediated
+through GABA. However, it is not a competitive antagonist;
+does not act on GABA receptor itself, but on a distinct site and
+prevents Cl¯ channel opening ( see p. 403). Diazepam, which
+facilitates GABAergic transmission, is the drug of choice for
+picrotoxin poisoning. Picrotoxin has no therapeutic indication
+now.
+3. Bicuculline This synthetic convulsant has picrotoxin-
+like actions. It is a competitive GABA A receptor (intrinsic Cl¯
+channel receptor) antagonist, while GABA B receptor (G-protein
+coupled receptor) is insensitive to it. It is only a research tool.
+4. Pentylenetetrazol (PTZ, Metrazol, Leptazol) It is
+a powerful CNS stimulant, believed to be acting by direct
+depolarization of central neurones. However, it has also been
+shown to interfere with GABAergic inhibitionmay be acting
+in a manner analogous to picrotoxin.
+Low doses cause excitation, larger doses produce
+convulsions which are similar in pattern to those caused by
+picrotoxin. Antagonism of PTZ induced convulsions is an
+established method of testing anticonvulsant drugs in
+laboratory animals ( see Ch. 30).
+II.  ANALEPTICS (Respiratory stimulants)
+These are drugs which stimulate respiration and can have
+resuscitative value in coma or fainting. They do stimulate
+respiration in subconvulsive doses, but margin of safety is
+narrow; the patient may get convulsions while still in coma.
+Mechanical support to respiration and other measures to
+improve circulation are more effective and safe.
+The role of analeptics in therapeutics is very limited.
+Situations in which they may be employed are:
+(a) As an expedient measure in hypnotic drug poisoning untill
+mechanical ventilation is instituted.
+(b) Suffocation on drowning, acute respiratory insufficiency.
+(c) Apnoea in premature infant.
+(d) Failure to ventilate spontaneously after general anaesthesia.
+However, the overall utility of analeptics is dubious.
+Doxapram It acts by promoting excitation of central
+neurones. At low doses it is more selective for the respiratory
+centre than other analeptics. Respiration is stimulated through
+carotid and aortic body chemoreceptors as well. Falling BP rises.
+Continuous i.v. infusion of doxapram may abolish episodes of
+apnoea in premature infant not responding to theophylline.
+Other uses: see above.528
+SECTION 8CARDIOVASCULAR DRUGS
+6.Torsades de pointes  (French: twisting of
+points) is a life-threatening form of polymor-
+phic ventricular tachycardia with rapid
+asynchronous complexes and an undulating
+baseline on ECG. It is generally associated with
+long Q-T interval.
+7.Ventricular fibrillation (VF)  is grossly
+irregular, rapid and fractionated activation of
+ventricles resulting in incoordinated contraction
+of its fibres with loss of pumping function.
+It is  fatal unless reverted within 25 min;
+is the most common cause of sudden cardiac
+death.
+8.Atrio-ventricular (A-V) block is due to
+depression of impulse conduction through the
+A-V node and bundle of His, mostly due to
+vagal influence or ischaemia.
+First degree A-V block:  Slowed conduction
+resulting in prolonged P-R interval.
+Second degree A-V block:  Some supra-
+ventricular complexes are not conducted: drop
+beats.
+Third degree A-V block:  No supraventricular
+complexes are conducted; ventricle generates
+its own impulse; complete heart block.
+Proarrhythmic potential of antiarrhythmic drugs
+Most antiarrhythmics can themselves be the cause of serious
+arrhythmias, especially during long-term prophylactic use.
+Two multicentric trials Cardiac Arrhythmia Suppression Trial
+I and II (CAST I, II, 1991, 1992) showed that post-MI
+patients randomized to receive on a long-term basis encainide,
+flecainide, moricizine had higher incidence of sudden death,
+though initially the same drugs had suppressed VES in these
+patients. It is possible that during transient episodes of
+ischaemia, the intraventricular conduction slowing action of
+these drugs gets markedly accentuated resulting in VT and
+VF. Similar increased mortality has been reported by the
+Mortality in the survival with D-sotalol (SWORD) trial.
+It is therefore not prudent to try and suppress all extrasystoles/
+arrhythmias, especially those not causing symptoms, with
+chronic prophylactic antiarrhythmic therapy. Only the 
+blockers and amiodarone have been found to decrease cardiac
+mortality in the long term.
+CLASSIFICATION
+Antiarrhythmic drugs act by blocking myocardial
+Na+, K+ or Ca2+ channels. Some have additional
+or even primary autonomic effects. Classificationof antiarrhythmic drugs has been difficult, because
+many drugs have more than one action. Vaughan
+Williams and Singh (1969) proposed a 4 class
+system which takes into account the primary
+electrophysiological action of a drug that may
+serve to indicate the type of clinical effects and
+therapeutic utility. However, different drugs within
+a class have their own specific set of properties.
+A simplified clinical classification of anti-
+arrhythmic drugs is given at the end of the chapter.
+CLASS I
+The primary action of drugs in this class is to
+limit the conductance of Na+ (and K+) across cell
+membranea local anaesthetic action. They also
+reduce rate of phase-4 depolarization in automatic
+cells.
+SUBCLASS IA
+The subclass IA containing the oldest anti-
+arrhythmic drugs quinidine and procainamide  are
+open state Na+ channel blockers which also
+moderately delay channel recovery (channel
+recovery time recovery 110s), suppress A-V
+conduction and prolong refractoriness. The Na+
+channel blockade is greater at higher frequency
+(premature depolarization is affected more). These
+actions serve to extinguish ectopic pacemakers
+that are often responsible for triggered arrhythmias
+and abolish reentry by converting unidirectional
+block into bidirectional block.Drugs that prolong Q-T interval
+(have potential to precipitate Torsades de pointes)
+1.Antiarrhythmics :Quinidine, procainamide,
+disopyramide, propafenone,
+amiodarone
+2.Antimalarials :Quinine, mefloquine,
+artemisinin, halofantrine
+3.Antibacterials :Sparfloxacin, moxifloxacin
+4.Antihistaminics :Terfenadine, astemizole, ebastine
+5.Antidepressants :Amitryptyline and other tricyclics
+6.Antipsychotics :Thioridazine, pimozide,
+aripiprazole, ziprasidone
+7.Prokinetic :Cisapride529
+CHAPTER 38ANTIARRHYTHMIC DRUGS
+Antiarrhythmic drugs
+Class Actions Drugs
+I.Membrane stabilizing agents
+(Na+ channel blockers)
+A.Moderately decrease dv/dt of 0 phase Quinidine, Procainamide, Disopyramide
+B.Little decrease in dv/dt of 0 phase Lidocaine, Mexiletine
+C.Marked decrease in dv/dt of 0 phase Propafenone, Flecainide
+II.Antiadrenergic agents ( blockers) Propranolol, Esmolol, Sotalol (also class III)
+III.Agents widening AP Amiodarone, Dronedarone
+(prolong repolarization and ERP ) Dofetilide, Ibutilide
+IV.Calcium channel blockers Verapamil, Diltiazem
+Note: Class IA agents also have Class III property; Propranolol has Class I action as well; sotalol has both
+Class II and Class III actions.
+In addition
+1.For PSVT : Adenosine, Digoxin
+2.For A-V block : SympathomimeticsIsoprenaline, etc.
+AnticholinergicsAtropine.
+3. Digitalis is used in AF, AFl and PSVT to control ventricular rate.
+Quinidine
+It is the dextro isomer of the antimalarial alkaloid quinine
+found in cinchona bark. In addition to Na+ channel blockade,
+quinidine has cardiac antivagal action which augments
+prolongation of atrial ERP and minimizes RP disparity
+of atrial fibres. A-V node ERP is increased by direct
+action of quinidine, but decreased by its antivagal action;
+overall effect is inconsistent. Quinidine depresses myocardial
+contractility; failure may be precipitated in damaged
+hearts.
+ECG: Quinidine increases P-R and Q-T intervals and tends
+to broaden QRS complex. Changes in the shape of T wave
+may be seen reflecting effect on repolarization.
+Mechanism of action: Quinidine blocks myocardial Na+
+channels in the open statereduces automaticity and maximal
+rate of 0 phase depolarization in a frequency dependent
+manner. Prolongation of APD is due to K+ channel block,
+while lengthening of ERP is caused by its moderate effect
+on recovery of Na+ and K+ channels. At high concentrations
+it also inhibits L type Ca2+ channels. Quinidine decreases
+the availability of Na+ channels as well as delays their
+reactivation.
+The other actions of quinidine are fall in BP (due to
+weak  adrenergic blockade and direct cardiac depression),
+decreased skeletal muscle contractility, augmented uterine
+contractions, vomiting, diarrhoea and neurological effects
+like ringing in ears, vertigo, deafness, visual disturbances
+and mental changes (Cinchonism). Like its levo isomer, it
+has antimalarial action, and has been used as a parenteral
+alternative to quinine for falciparum malaria. The important
+drug interactions of quinidine are: Rise in blood levels and toxicity of digoxin due to
+displacement from tissue binding and inhibition of P-
+glycoprotein mediated renal and biliary clearance of
+digoxin.
+ Marked fall in BP in patients receiving vasodilators.
+ Risk of torsades de pointes is increased by hypokalaemia
+caused by diuretics.
+ Synergistic cardiac depression with -blockers,
+verapamil, K+ salts.
+ Quinidine inhibits CYP2D6: prolongs t½ of propafenone
+and inhibits conversion of codeine to morphine.
+Use: Though quinidine is effective in many atrial and
+ventricular arrhythmias, it is seldom used now, because of
+risk of adverse effects, including that of torsades de pointes ,
+sudden cardiac arrest or VF; idiosyncratic angioedema,
+vascular collapse, thrombocytopenia, etc. In a dose of
+100200 mg TDS quinidine may rarely be used to maintain
+sinus rhythm after termination of AF or AFI.
+QUINIDINE SULPHATE 200 mg tab; QUININGA 300 mg
+tab, 600 mg/2 ml inj; NATCARDINE 100 mg tab.
+Procainamide
+It is orally active amide derivative of the local
+anaesthetic procaine, with cardiac electrophysio-
+logical actions almost identical to those of
+quinidine, viz. slowing of 0 phase depolarization
+and impulse conduction, prolongation of APD,
+ERP, QRS complex and Q-T interval.  Significant
+differences between the two are:537
+CHAPTER 38ANTIARRHYTHMIC DRUGS
+Clinical classification of antiarrhythmic drugs
+Supraventricular Supraventricular and Ventricular arrhythmias
+arrhythmias only ventricular arrhythmias only
+Adenosine Amiodarone Procainamide Lidocaine
+Verapamil  blockers Disopyramide Mexiletine
+Diltiazem Propranolol Quinidine
+Dronedarone Sotalol Flecainide
+Digoxin Esmolol PropafenoneDrugs for A-V Block
+The definitive treatment of chronic heart block
+is pacing with an implanted cardiac pacemaker.
+Drugs are of value only for acute/transient A-V
+block and as an interim measure.
+Atropine: When A-V block is due to vagal
+overactivity, e.g. digitalis toxicity, some cases
+of MI; it can be improved by atropine 0.61.2
+mg i.m. Atropine abbreviates A-V node ERP
+and increases conduction velocity in bundle of
+His.
+Sympathomimetics  (Adr, isoprenaline): These
+drugs may overcome partial heart block by
+facilitating A-V conduction and shortening ERP
+of conducting tissues.
+They may also be used in complete (3rd
+degree) heart block to maintain a sufficient
+idioventricular rate (by increasing automaticity
+of ventricular pacemakers) till external pacemaker
+can be implanted.
+Choice and use of antiarrhythmic drugs
+Mere detection of an arrhythmia does not
+necessitate treatment.
+Asymptomatic arrhythmias and those which
+do not jeopardize haemodynamics, e.g. most AES
+and occasional VES, first degree A-V block,
+bundle branch block, etc. in an otherwise normal
+heart, do not require antiarrhythmic treatment;
+reassurance is enough. If a patient is particularly
+disturbed by AES, propranolol is the best option.
+Chronic prophylactic therapy with class I and class
+IV antiarrhythmics does not appear to afford
+survival benefit, except in few selected cases. Onlypropranolol and to some extent amiodarone have
+been shown to reduce cardiovascular mortality
+in the long-term. On the other hand, vigorous
+therapy is indicated when:
+ Arrhythmia is life-threatening, e.g. sustained
+VT, torsades de pointes, VF.
+ Arrhythmia is causing hypotension, breath-
+lessness, activity limitation or cardiac failure.
+ Palpitation is marked, e.g. in PSVT, sustained
+VT, AF, torsades de pointes.
+ When simple arrhythmia may lead to more
+serious ones, e.g. after MI (warning arrhy-
+thmias).
+In the above situations antiarrhythmics are mostly
+needed for short periods. Majority of antiarrhy-
+thmic drugs have narrow margin of safety. A
+simple clinical classification of antiarrhythmic
+drugs is presented in the box below.
+The selection of an antiarrhythmic in a patient
+depends on:
+(a) ECG diagnosis
+(b) Possible mechanism underlying the arrhythmia
+(c) Mechanism of action and range of anti-
+arrhythmic activity of the drug
+(d) Pharmacokinetic profile of the drug.
+(e) Haemodynamic effects of the drug.
+The aim is to improve cardiovascular function
+either by restoring sinus rhythm, or by controlling
+ventricular rate, or by conversion to a more
+desirable pattern of electrical and mechanical
+activity.
+Despite extensive investigation, choice of an
+antiarrhythmic is still largely empirical. A practical
+guide to the choice and use of antiarrhythmic
+drugs is summarized in the box on next page.540
+SECTION 8CARDIOVASCULAR DRUGS
+recurrent localized (occasionally diffuse) coronary
+vasospasm (Fig. 39.2) which may be superimposed
+on arteriosclerotic coronary artery disease.
+Abnormally reactive and hypertrophied segments
+in the coronary arteries have been demonstrated.
+Drugs are aimed at preventing and relieving the
+coronary vasospasm.
+Unstable angina (UA) with rapid increase in
+duration and severity of attacks is mostly due
+to rupture of an atheromatous plaque attracting
+platelet deposition and progressive occlusion of
+the coronary artery; occasionally with associated
+coronary vasospasm.
+Chronically reduced blood supply causes atro-
+phy of cardiac muscle with fibrous replacement
+(reduced myocardial work capacity  CHF) and
+may damage conducting tissue to produce unstable
+cardiac rhythms. Antianginal drugs relieve cardiac
+ischaemia but do not alter the course of coronary
+artery pathology: no permanent benefit is afforded.
+On the other hand, aspirin, ACE inhibitors and
+statins (hypocholesterolaemic) can modify
+coronary artery disease and improve prognosis.
+Glyceryl trinitrate , the drug unsurpassed in its ability to
+abort and terminate anginal attack, was introduced by Murrell
+in 1879. Other organic nitrates were added later, but a
+breakthrough was achieved in 1963 when propranolol was
+used for chronic prophylaxis. The calcium channel blockers
+have been a major contribution of the 1970s. A number
+of vasodilator and other drugs have been promoted from
+time to time, but none is as uniformly effective. Some
+potassium channel openers (nicorandil),  metabolic modulator
+(trimetazidine) and late Na+ current inhibitor (ranolazine)
+have been introduced lately.
+CLASSIFICATION
+1.Nitrates
+(a)Short acting: Glyceryl trinitrate (GTN,
+Nitroglycerine)
+(b)Long acting : Isosorbide dinitrate (short
+acting by sublingual route), Isosorbide
+mononitrate, Erythrityl tetranitrate,
+Pentaerythritol tetranitrate
+2. Blockers Propranolol, Metoprolol, Atenolol
+and others.
+3.Calcium channel blockers
+(a)Phenyl alkylamine : Verapamil(b)Benzothiazepine:  Diltiazem
+(c)Dihydropyridines:  Nifedipine, Felodipine,
+Amlodipine, Nitrendipine, Nimodipine,
+Lacidipine, Lercanidipine, Benidipine
+4.Potassium channel opener Nicorandil
+5.Others Dipyridamole, Trimetazidine,
+Ranolazine, Ivabradine, Oxyphedrine
+Clinical classification
+A.Used to abort or terminate attack GTN,
+Isosorbide dinitrate (sublingually).
+B.Used for chronic prophylaxis All other drugs.
+NITRATES (GTN as prototype)
+All organic nitrates share the same action; differ
+only in time course. The only major action is
+direct nonspecific smooth muscle relaxation.
+Preload reduction The most prominent action
+is exerted on vascular smooth muscle. Nitrates
+dilate veins more than arteries  peripheral
+pooling of blood  decreased venous return, i.e.
+preload on heart is reduced  end diastolic size
+and pressure are reduced  decreased cardiac
+work according to Laplace relationship which
+describes the effectiveness of ventricular wall
+tension in elevating intraventricular pressure and
+the extent to which fibre shortening results in
+systolic ejection.
+Wall tension = intraventricular pressure ×
+ventricular radius
+Thus, reduction in ventricular radius decreases
+the tension that must be generated in the ventri-
+cular wallhence decreased O 2 consumption.
+Reduction in cardiac output (c.o.) occurs at rest
+but is less marked during angina due to better
+ventricular emptying. The decrease in end diastolic
+pressure abolishes the subendocardial crunch by
+restoring the pressure gradient across ventricular
+wall due to which subendocardial perfusion occurs
+during diastole. It is through their action on
+peripheral veins that nitrates exert major beneficial
+effects in classical angina.Antihypertensive Drugs ChapterChapterChapterChapterChapter 4040404040
+These are drugs used to lower BP in hypertension.
+Hypertension is a very common disorder,
+particularly past middle age. It is not a disease
+in itself, but is an important risk factor for cardio-
+vascular mortality and morbidity. The cutoff
+manometric reading between normotensives and
+hypertensives is arbitrary. For practical purposes
+hypertension could be that level of BP at or
+above which long-term antihypertensive treatment
+will reduce cardiovascular mortality. The JNC 7*
+(2003) and WHO-ISH@ guidelines (2003) have
+defined it to be 140 mm Hg systolic and 90 mm
+Hg diastolic, though risk appears to increase even
+above 120/80 mm Hg. Epidemiological studies
+have confirmed that higher the pressure (systolic
+or diastolic or both) greater is the risk of
+cardiovascular disease.
+Majority of cases are of essential (primary)
+hypertension, i.e. the cause is not known. Sympa-
+thetic and renin-angiotensin systems (RAS) may
+or may not be overactive, but they do contribute
+to the tone of blood vessels and c.o. in hyper-
+tensives, as they do in normotensives. Many
+antihypertensive drugs interfere with these
+regulatory systems at one level or the other.
+Antihypertensive drugs, by chronically lowering
+BP, may reset the barostat to function at a lower
+level of BP.
+Antihypertensive drug therapy has been remarkably improved
+in the last 60 years. Different classes of drugs have received
+prominence with passage of time in this period. Before 1950
+hardly any effective and tolerated antihypertensive was
+available. Veratrum and Sod. thiocyanate  could lower BP,
+but were toxic and difficult to use. The ganglion blockers
+developed in the 1950s were effective, but inconvenient.
+Reserpine  was a breakthrough, but produced mentaldepression. The therapeutic potential of hydralazine  could
+not be tapped fully because of marked side effects when it
+was used alone. Guanethidine  introduced in 1961 was an
+improvement on ganglion blockers. The antihypertensives of
+the 196070s were methyldopa,  blockers , thiazide and
+high ceiling diuretics  and clonidine. The status of  blockers
+and diuretics was consolidated in the 1970s and selective
+1 blocker prazosin broke new grounds. The antihypertensives
+of the 198090s are angiotensin II converting enzyme
+(ACE) inhibitors  and calcium channel blockers . Angiotensin
+receptor blockers ( losartan, etc.) were added soon after,
+and the direct renin inhibitor aliskiren is the latest drug.
+With the development of many types of drugs, delineation
+of their long-term benefits and complications, and
+understanding of the principles on which to combine them,
+hypertension can now be controlled in most cases with
+minimum discomfort.
+CLASSIFICATION
+1.Diuretics
+Thiazides: Hydrochlorothiazide,
+Chlorthalidone, Indapamide
+High ceiling: Furosemide, etc.
+K+ Sparing: Spironolactone, Amiloride
+2.ACE inhibitors
+Captopril, Enalapril, Lisinopril,
+Perindopril, Ramipril, Fosinopril, etc.
+3.Angiotensin (AT 1 receptor) blockers
+Losartan, Candesartan, Irbesartan, Valsartan,
+Telmisartan
+4.Direct renin inhibitor
+Aliskiren
+5.Calcium channel blockers
+Verapamil, Diltiazem, Nifedipine, Felodipine,
+Amlodipine, Nitrendipine, Lacidipine, etc.
+6. Adrenergic blockers
+Propranolol, Metoprolol, Atenolol, etc.
+* JNC 7The seventh report of Joint  National Committee (of USA) on prevention, detection, evaluation and treatment of high
+blood pressure.
+@ WHO-ISHWorld Health Organization and International Society of Hypertension.568
+SECTION 8CARDIOVASCULAR DRUGS
+relaxes vascular smooth muscle. This occurs both
+enzymatically and nonenzymatically. The enzymes
+involved are different from those that produce
+NO from glyceryl trinitrate. Nonenzymatically it
+is converted to NO (and CN) by glutathione. This
+may be responsible for the different pattern of
+vasodilator action compared to nitrates, as well
+as for the fact that no nitrate like tolerance
+develops to nitroprusside action.
+Nitroprusside has gained popularity in the
+management of hypertensive emergencies; 50 mg
+is added to a 500 ml bottle of saline/glucose
+solution. The infusion is started at 0.02 mg/min
+and titrated upward with the response: 0.10.3
+mg/min is often needed. It decomposes at alkaline
+pH and on exposure to light: the infusion bottle
+should be covered with black paper.
+Nitroprusside is split to release cyanide. The
+latter is converted in liver to thiocyanate which
+is excreted slowly. If larger doses are infused
+for more than 12 days, excess thiocyanate may
+accumulate and produce toxicity, including
+psychosis.
+Side effects mainly due to vasodilatation are
+palpitation, nervousness, vomiting, perspiration,
+pain in abdomen, weakness, disorientation, and
+lactic acidosis (caused by the released cyanide).
+Nitroprusside has also been used to produce
+controlled hypotension, in refractory CHF ( see
+p. 522), pump failure accompanying MI and in
+acute mitral regurgitation.
+SONIDE, PRUSIDE, NIPRESS 50 mg in 5 ml inj.
+ADRENERGIC NEURONE BLOCKERS
+Reserpine It is an alkaloid from the roots of Rauwolfia
+serpentina  (sarpgandha) indigenous to India which has been
+used in Ayurvedic medicine for centuries. The pure alkaloid
+was isolated in 1955 and later found to act by causing CA
+and 5-HT depletion. It was a popular antihypertensive of
+the late 1950s and early 1960s, but is now used only as
+a pharmacological tool.
+Reserpine acts at the membrane of intraneuronal vesicles
+which store monoamines (NA, DA, 5-HT) and irreversibly
+inhibits the vesicular monoamine transporter (VMAT2). The
+monoamines are gradually depleted and degraded by MAO.
+The effects last long after the drug is eliminated (hit and
+run drug) because tissue CA stores are restored only gradually.
+Higher doses deplete CAs and 5-HT in the brain as
+well; cause sedation and mental depression. Antipsychoticeffect (mild) and extrapyramidal symptoms are produced due
+to DA depletion.
+SERPASIL 0.25 mg tab; 1 mg/ml inj.
+Guanethidine It is a polar guanidine compound which
+is taken up into the adrenergic nerve endings by
+active amine transport, and has three important facets of
+action:
+(a) Displaces NA from storage granules stoichiometrically.
+(b) Inhibits nerve impulse coupled release of NA.
+(c) Engages and blocks NA uptake mechanism at the axonal
+membrane.
+Guanethidine has gone out of use now due to marked side
+effects.
+TREATMENT OF HYPERTENSION
+The aim of antihypertensive therapy is to prevent
+morbidity and mortality associated with persis-
+tently raised BP by lowering it to an acceptable
+level, with minimum inconvenience to the
+patient. Both systolic and diastolic BP predict
+the likelihood of target organ damage (TOD) and
+complications such as:
+(a) Cerebrovascular disease, transient ischaemic
+attacks, stroke, encephalopathy.
+(b) Hypertensive heart diseaseleft ventricular
+hypertrophy, CHF.
+(c) Coronary artery disease (CAD), angina, myo-
+cardial infarction, sudden cardiac death.
+(d) Arteriosclerotic peripheral vascular disease,
+retinopathy.
+(e) Dissecting aneurysm of aorta.
+(f) Glomerulopathy, renal failure.
+Patients who have already suffered some TOD
+have greater risk of further organ damage and
+death at any level of raised BP, than those without
+TOD.
+The JNC 7 (2003) has reclassified BP readings
+as:
+Since the risk of complications depends not
+only on the level of BP, but also on other risk
+factors (see box) and existing TOD, these have        BP (mm Hg)
+BP classification Systolic Diastolic
+ 1. Normal <120 and <80
+ 2. Prehypertension 120139or 8089
+ 3. Hypertension Stage I 140159or 9099
+ 4. Hypertension Stage II  160 or  100Diuretics Chapter 41b
+Diuretics (natriuretics) are drugs which cause a
+net loss of Na+ and water in urine. However, Na+
+balance is soon restored, even with continuing
+diuretic action, by compensatory homeostatic
+mechanisms of the body, albeit with a certain
+degree of persisting Na+ deficit and reduction in
+extracellular fluid volume.
+Based on the diuretic action of calomel, organomercurials
+given by injection were introduced in the 1920s and dominated
+for nearly 40 years. The CAse inhibitors were developed
+in the 1950s from the observation that early sulfonamides
+caused acidosis and mild diuresis. The first modern orally
+active diuretic chlorothiazide  was produced in 1957, and
+by early 1960s its congeners (thiazide diuretics) were already
+in common use. Availability of furosemide  and ethacrynic
+acid by mid 1960s revolutionized the pattern of diuretic
+use. The aldosterone antagonist and other K+ sparing diuretics
+spironolactone  and triamterene/amiloride  were developed
+in parallel to these.
+Diuretics are among the most widely pres-
+cribed drugs. Application of diuretics in the
+management of hypertension has outstripped their
+use in edema. Availability of diuretics has also
+had a major impact on the understanding of renal
+physiology.
+CLASSIFICATION
+1.High efficacy diuretics (Inhibitors of Na+-
+K+-2Cl¯ cotransport)
+Sulphamoyl derivatives
+Furosemide, Bumetanide, Torasemide
+2.Medium efficacy diuretics (Inhibitors of
+Na+-Cl¯ symport)
+(a)Benzothiadiazines (thiazides)
+Hydrochlorothiazide, Benzthiazide,
+Hydroflumethiazide, Bendroflumethiazide
+(b)Thiazide like (related heterocyclics)
+Chlorthalidone, Metolazone, Xipamide,
+Indapamide, Clopamide3.Weak or adjunctive diuretics
+(a)Carbonic anhydrase inhibitors
+Acetazolamide
+(b)Potassium sparing diuretics
+(i)Aldosterone antagonist :
+Spironolactone, Eplerenone
+(ii)Inhibitors of renal epithelial Na+
+channel: Triamterene, Amiloride.
+(c)Osmotic diuretics
+Mannitol, Isosorbide, Glycerol
+Other high ceiling diuretics, viz. ethacrynic acid and
+organomercurials (mersalyl)  are only historical.
+HIGH CEILING (LOOP) DIURETICS
+(Inhibitors of Na+-K+-2Cl¯ Cotransport)
+Furosemide (Frusemide)  Prototype drug
+The development of this rapidly acting highly
+efficacious oral diuretic was a breakthrough. Its
+maximal natriuretic effect is much greater than
+that of other classes. The diuretic response goes
+on increasing with increasing dose: upto 10 L
+of urine may be produced in a day. It is active
+even in patients with relatively severe renal failure.
+The onset of action is prompt (i.v. 25 min., i.m.
+1020 min., oral 2040 min.) and duration short
+(36 hours).
+The major site of action is the thick AscLH
+(therefore called loop diuretics ) where furosemide
+inhibits Na+- K+-2Cl¯ cotransport (site II, Fig.
+41.1). A minor component of action on PT has also
+been indicated. It is secreted in PT by organic anion
+transport and reaches AscLH where it acts from
+luminal side of the membrane. The cortico-
+medullary osmotic gradient is abolished and
+positive as well as negative free water clearance is
+blocked. K+ excretion is increased mainly due to
+high Na+ load reaching DT. However, at equinatri-
+uretic doses, K+ loss is less than that with thiazides.635
+CHAPTER 45HYPOLIPIDAEMIC DRUGS AND PLASMA EXPANDERS
+TABLE 45.2 Types of primary hyperlipoproteinaemias
+Type Disorder Cause Occurrence Elevated Plasma lipids
+plasma
+lipoprotein CH TG
+I Familial lipoprotein G Very rare Chylomicron  
+lipase deficiency
+IIa Familial G Less common LDL N
+hypercholesterolaemia
+IIb Polygenic MF Commonest LDL N
+hypercholesterolaemia
+III Familial G Rare IDL, Chy. rem.
+dysbetalipoproteinaemia
+IV Hypertriglyceridaemia MF, G Common VLDL N
+V Familial combined G Less common VLDL, LDL
+hyperlipidaemia
+CHCholesterol; TGTriglycerides; GGenetic; MFMultifactorial; Chy. rem.Chylomicron  remnants;
+VLDLVery low density lipoprotein; IDLIntermediate density lipoprotein; LDLLow density lipoprotein.
+The genetic defect in some of the monogenic disorders is:
+Type I : absence of lipoprotein lipaseTG in Chy cannot be utilized.
+Type IIa : deficiency of LDL receptorLDL and IDL are taken up very slowly by liver and tissues.
+Type III : the apoprotein in IDL and Chy. rem. (apoE) is abnormal, these particles are cleared at a lower rate.
+Type IV : this type of hypertriglyceridaemia is both multifactorial and monogenic, the former is more prevalent
+than the latter.
+The CHE of LDL is deesterified and used mainly for
+cell membrane formation. The CH released into blood from
+degradation of membranes is rapidly incorporated in high
+density lipoproteins  (HDL), esterified with the help of an
+enzyme lecithin: cholesterol acyltransferase (LCAT) and
+transferred back to VLDL or IDL, completing the cycle.
+The excess lipoproteins in plasma are phagocytosed by
+macrophages for disposal. When too much of lipoproteins
+have to be degraded in this manner, CH is deposited in
+atheromas  (in arterial walls) and xanthomas  (in skin and
+tendons). Raised levels of VLDL, IDL and LDL (rarely Chy
+and Chy. rem. also) are atherogenic, while HDL may be
+protective, because HDL facilitates removal of CH from tissues.
+Hyperlipoproteinaemias can be:
+(i)Secondary : associated with diabetes, myxo-
+edema, nephrotic syndrome, chronic alcoholism,
+drugs (corticosteroids, oral contraceptives, 
+blockers) etc.
+(ii)Primary: due to:
+(a) A single gene defect: is familial and called
+monogenic or genetic.
+(b) Multiple genetic, dietary and physical acti-
+vity related causes: polygenic or multi-
+factorial.On the whole, LDL is the primary carrier of plasma
+CHE, and VLDL that of TGs. The important
+features of major types of hyperlipoproteinaemias
+are given in Table 45.2.
+CLASSIFICATION
+1.HMG-CoA reductase inhibitors (Statins):
+Lovastatin, Simvastatin, Pravastatin,
+Atorvastatin, Rosuvastatin, Pitavastatin
+2.Bile acid sequestrants (Resins):
+Cholestyramine, Colestipol
+3.Lipoprotein lipase activators (PPAR
+activators, Fibrates):  Clofibrate, Gemfibrozil,
+Bezafibrate, Fenofibrate.
+4.Lipolysis and triglyceride synthesis
+inhibitor:
+Nicotinic acid.
+5.Sterol absorption inhibitor:
+Ezetimibe.
+The mechanism of action and profile of lipid
+lowering effect of important hypolipidaemic drugs
+is summarized in Table 45.3.662
+SECTION 11GASTROINTESTINAL DRUGS
+Fig. 47.1: Major central and visceral structures involved in emesis and the neurohumoral receptors mediating
+the emetic response.
+NTSNucleus tractus solitarius; VCVomiting centre; CTZChemoreceptor trigger zone; 5-HT35-HT3 receptor;
+H1Histamine H1 receptor; D2Dopamine  2 receptor; MMuscarinic receptor; NK1Neurokinin1 receptor;
+CB1Cannabinoid 1 receptor
+(c) Kerosine (petroleum) poisoning: chances of
+aspiration of the liquid (due to low viscosity)
+and chemical pneumonia are high.
+(d) Unconscious patient: may aspirate the
+vomitus, because laryngeal reflex is likely
+to be impaired.
+(e) Morphine or phenothiazine poisoning:
+emetics may fail to act.
+ANTIEMETICS
+These are drugs used to prevent or suppress
+vomiting.CLASSIFICATION
+1.Anticholinergics Hyoscine, Dicyclomine
+2.H1 antihistaminics Promethazine,
+Diphenhydramine,
+Dimenhydrinate,
+Doxylamine,
+Meclozine (Meclizine),
+Cinnarizine.
+3.Neuroleptics Chlorpromazine,
+(D2 blockers) Triflupromazine,
+Prochlorperazine,
+Haloperidol, etc.663
+CHAPTER 47ANTIEMETIC, PROKINETIC AND DIGESTANT DRUGS
+4.Prokinetic drugs Metoclopramide,
+Domperidone,
+Cisapride, Mosapride,
+Itopride
+5.5-HT3 antagonists Ondansetron,
+Granisetron,
+Palonosetron,
+Ramosetron
+6. NK1 receptor Aprepitant,
+antagonists Fosaprepitant
+7.Adjuvant Dexamethasone,
+antiemetics Benzodiazepines,
+Dronabinol, Nabilone
+ANTICHOLINERGICS (See Ch. 8)
+Hyoscine (0.20.4 mg oral, i.m.) is the most
+effective drug for motion sickness. However, it
+has a brief duration of action; produces sedation,
+dry mouth and other anticholinergic side effects;
+suitable only for short brisk journies. Antiemetic
+action is exerted probably by blocking conduction
+of nerve impulses across a cholinergic link in the
+pathway leading from the vestibular apparatus to
+the vomiting centre and has poor efficacy in
+vomiting of other etiologies.
+A transdermal patch containing 1.5 mg of hyoscine, to
+be delivered over 3 days has been developed. Applied behind
+the pinna, it suppresses motion sickness while producing
+only mild side effects.
+Dicyclomine (1020 mg oral) has been used
+for prophylaxis of motion sickness and for
+morning sickness. It has been cleared of
+teratogenic potential.
+H1 ANTIHISTAMINICS (See Ch. 11)
+Some antihistaminics are antiemetic. They are
+useful mainly in motion sickness and to a lesser
+extent in morning sickness, postoperative and
+some other forms of vomiting. Their antiemetic
+effect appears to be based on anticholinergic,
+antihistaminic, weak antidopaminergic and
+sedative properties.
+Promethazine, diphenhydramine, dimenhydri-
+nateThese drugs afford protection of motion
+sickness for 46 hours, but produce sedation and
+dryness of mouth. By their central anticholinergicaction they block the extrapyramidal side effects
+of metoclopramide while supplementing its anti-
+emetic action. Promethazine is a phenothiazine;
+has weak central antidopaminergic action as well.
+Their combination has been used in chemotherapy
+induced nausea and vomiting (CINV).
+Promethazine theoclate (AVOMINE 25 mg tab.)
+This salt of promethazine has been specially
+promoted as an antiemetic, but the action does
+not appear to be significantly different from
+promethazine HCl.
+Doxylamine It is a sedative H 1 antihistaminic
+with prominent anticholinergic activity. Marketed
+in combination with pyridoxine, it is specifically
+promoted in India for morning sickness (vomiting
+of early pregnancy), although such use is not made
+in UK and many other countries.
+After over 2 decades of worldwide use of a combination
+product of doxylamine for morning sickness, some reports
+of foetal malformation appeared and the product was
+withdrawn in 1981. Subsequent studies have both supported
+and refuted its teratogenic potential. Though the US-FDA
+and CSM in UK found no credible evidence of increase
+in birth defects, they did not rule out the possibility. The
+product remained suspended in these countries, probably to
+avoid litigation, but not due to safety or efficacy concerns.
+Recently, the American College of Obstetricians and
+Gynaecologists have recommended a combination of
+doxylamine + pyridoxine as first line treatment of morning
+sickness. However, it is still not used in U.K.
+Oral absorption of doxylamine is slow, and its
+t½ is 10 hr. The side effects are drowsiness, dry
+mouth, vertigo and abdominal upset.
+Dose: 1020 mg at bed time; if needed additional doses
+may be given in morning and afternoon.
+DOXINATE, GRAVIDOX, VOMNEX, NOSIC 10 mg with
+pyridoxine 10 mg tab.
+Meclozine (meclizine) It is less sedative and
+longer-acting; protects against sea sickness for
+nearly 24 hours.
+DILIGAN: meclozine 12.5 mg + nicotinic acid 50 mg tab;
+PREGNIDOXIN: meclozine 25 mg + caffeine 20 mg tab.
+Cinnarizine It is an antivertigo drug having
+antimotion sickness property. It probably acts
+by inhibiting influx of Ca2+ from endolymph into
+the vestibular sensory cells which mediates
+labyrinthine reflexes.Drugs for Constipation
+and DiarrhoeaChapterChapterChapterChapterChapter 4848484848
+LAXATIVES
+(Aperients, Purgatives, Cathartics)
+These are drugs that promote evacuation of
+bowels. A distinction is sometimes made according
+to the intensity of action.
+(a)Laxative or aperient : milder action,
+elimination of soft but formed stools.
+(b)Purgative or cathartic : stronger action
+resulting in more fluid evacuation.
+Many drugs in low doses act as laxative and in
+larger doses as purgative.
+CLASSIFICATION
+1.Bulk forming
+Dietary fibre: Bran, Psyllium (Plantago)
+Ispaghula, Methylcellulose
+2.Stool softener
+Docusates (DOSS), Liquid paraffin
+3.Stimulant purgatives
+(a)Diphenylmethanes
+Phenolphthalein, Bisacodyl, Sodium
+picosulfate
+(b)Anthraquinones (Emodins)
+Senna, Cascara sagrada
+(c)5-HT4 agonist
+Prucalopride
+(d)Fixed oil
+Castor oil
+4.Osmotic purgatives
+Magnesium salts: sulfate, hydroxide
+Sodium salts: sulfate, phosphate
+Sod. pot. tartrate
+Lactulose
+MECHANISM OF ACTION
+All purgatives increase the water content of the
+faeces by:(a) A hydrophilic or osmotic action, retaining
+water and electrolytes in the intestinal
+lumenincrease volume of colonic content
+and make it easily propelled.
+(b) Acting on intestinal mucosa, decrease net
+absorption of water and electrolyte; intestinal
+transit is enhanced indirectly by the fluid
+bulk.
+(c) Increasing propulsive activity as primary
+actionallowing less time for absorption of
+salt and water as a secondary effect.
+For some of the drugs, controversy continues as
+to whether they increase water content of stools
+as the primary action or it is a consequence of
+increased motility, because the amount of water
+absorbed largely depends on transit time.
+However, certain purgatives do increase motility
+through an action on the myenteric plexuses.
+Laxatives modify the fluid dynamics of the
+mucosal cell and may cause fluid accumulation
+in gut lumen by one or more of following
+mechanisms:
+(a) Inhibiting Na+K+ATPase of villous cells 
+impairing electrolyte and water absorption.
+(b) Stimulating adenylyl cyclase in crypt cells 
+increasing water and electrolyte secretion.
+(c) Enhancing PG synthesis in mucosa which
+increases secretion.
+(d) Increasing NO synthesis which enhances
+secretion and inhibits non-propulsive
+contrations in colon.
+(e) Structural injury to the absorbing intestinal
+mucosal cells.
+BULK PURGATIVES
+Dietary fibre: bran Dietary fibre consists of
+unabsorbable cell wall and other constituents of
+vegetable foodcellulose, lignins, gums, pectins,689
+CHAPTER 49GENERAL CONSIDERATIONS
+of 19th century and that they are the cause of many diseases;
+Ehrlich toyed with the idea that if certain dyes could
+selectively stain microbes, they could also be selectively toxic
+to these organisms. He tried methylene blue, trypan red, etc.
+He developed the arsenicals atoxyl for sleeping sickness,
+arsphenamine  in 1906 and neoarsphenamine in 1909 for
+syphilis. He coined the term chemotherapy because he used
+drugs of known chemical structure (that of most other drugs
+in use at that time was not known) and showed that selective
+attenuation of infecting parasite was a practical proposition.
+(c) The modern era of chemotherapy was ushered by Domagk
+in 1935 by demonstrating the therapeutic effect of Prontosil,
+a sulfonamide dye, in pyogenic infection. It was soon realized
+that the active moiety was paraamino benzene sulfonamide,
+and the dye part was not essential. Sulfapyridine (M & B
+693) was the first sulfonamide to be marketed in 1938.
+The phenomenon of antibiosis  was demonstrated by
+Pasteur in 1877: growth of anthrax bacilli in urine was inhibited
+by air-borne bacteria. Fleming (1929) found that a diffusible
+substance was elaborated by Penicillium  mould which could
+destroy Staphylococcus  on the culture plate. He named this
+substance penicillin  but could not purify it. Chain and Florey
+followed up this observation in 1939 which culminated in the
+clinical use of penicillin in 1941. Because of the great potential
+of this discovery in treating war wounds, commercial
+manufacture of penicillin soon started.
+In the 1940s, Waksman and his colleagues undertook
+a systematic search of Actinomycetes as source of antibiotics
+and discovered streptomycin  in 1944. This group of soil
+microbes proved to be a treasure-house of antibiotics and
+soon tetracyclines, chloramphenicol, erythromycin and many
+others followed. All three groups of scientists, Domagk,
+Fleming-Chain-Florey and Waksman received the Nobel Prize
+for their discoveries.
+In the past 50 years emphasis has shifted from searching
+new antibiotic producing organisms to developing
+semisynthetic derivatives of older antibiotics with more
+desirable properties or differing spectrum of activity. Few
+novel synthetic AMAs, e.g. fluoroquinolones, oxazolidinones
+have also been produced.
+CLASSIFICATION
+Antimicrobial drugs can be classified in many
+ways:
+A. Chemical structure
+1.Sulfonamides and related drugs : Sulfa-
+diazine and others, SulfonesDapsone
+(DDS), Paraaminosalicylic acid (PAS).
+2.Diaminopyrimidines: Trimethoprim,
+Pyrimethamine.
+3.Quinolones: Nalidixic acid, Norfloxacin,
+Ciprofloxacin, Prulifloxacin, etc.4.-Lactam antibiotics: Penicillins, Cepha-
+losporins, Monobactams, Carbapenems.
+5.Tetracyclines: Oxytetracycline, Doxy-
+cycline, etc.
+6.Nitrobenzene derivative:  Chloramp-
+henicol.
+7.Aminoglycosides:  Streptomycin, Genta-
+micin, Amikacin, Neomycin, etc.
+8.Macrolide antibiotics:  Erythromycin,
+Clarithromycin, Azithromycin, etc.
+9.Lincosamide antibiotics: Lincomycin,
+Clindamycin.
+10.Glycopeptide antibiotics: Vancomycin,
+Teicoplanin.
+11.Oxazolidinone:  Linezolid.
+12.Polypeptide antibiotics:  Polymyxin-B,
+Colistin, Bacitracin, Tyrothricin.
+13.Nitrofuran derivatives:  Nitrofurantoin,
+Furazolidone.
+14.Nitroimidazoles: Metronidazole, Tinida-
+zole, etc.
+15.Nicotinic acid derivatives:  Isoniazid,
+Pyrazinamide, Ethionamide.
+16.Polyene antibiotics:  Nystatin, Amphote-
+ricin-B, Hamycin.
+17.Azole derivatives:  Miconazole, Clotrima-
+zole, Ketoconazole, Fluconazole.
+18.Others: Rifampin, Spectinomycin, Sod.
+fusidate, Cycloserine, Viomycin, Ethambu-
+tol, Thiacetazone, Clofazimine, Griseoful-
+vin.
+B. Mechanism of action
+1.Inhibit cell wall synthesis : Penicillins,
+Cephalosporins, Cycloserine, Vancomycin,
+Bacitracin.
+2.Cause leakage from cell membranes :
+PolypeptidesPolymyxins, Colistin,
+Bacitracin. PolyenesAmphotericin B,
+Nystatin, Hamycin.
+3.Inhibit protein synthesis:  Tetracyclines,
+Chloramphenicol, Erythromycin, Clinda-
+mycin, Linezolid.
+4.Cause misreading of m-RNA code and
+affect permeability:  Aminoglycosides
+Streptomycin, Gentamicin, etc.721
+CHAPTER 51BETA-LACTAM ANTIBIOTICS
+2. Susceptibility to penicillinase.
+3. Narrow spectrum of activity.
+4. Hypersensitivity reactions (this has not
+been overcome in any preparation).
+In addition, some -lactamase inhibitors have
+been developed which themselves are not anti-
+bacterial, but augment the activity of penicillins
+against -lactamase producing organisms.
+CLASSIFICATION
+1.Acid-resistant alternative to penicillin G
+Phenoxymethyl penicillin (Penicillin V).
+2.Penicillinase-resistant penicillins
+Methicillin, Cloxacillin, Dicloxacillin.
+3.Extended spectrum penicillins
+(a)Aminopenicillins:  Ampicillin,
+Bacampicillin, Amoxicillin.
+(b)Carboxypenicillins : Carbenicillin.
+(c)Ureidopenicillins : Piperacillin,
+Mezlocillin.
+-lactamase inhibitors Clavulanic acid
+ Sulbactam, Tazobactam
+ACID-RESISTANT ALTERNATIVE TO
+PENICILLIN-G
+Phenoxymethyl penicillin (Penicillin V)
+It differs from PnG only in that it is acid stable.
+Oral absorption is better; peak blood level is
+reached in 1 hour and plasma t½ is 3060 min.
+The antibacterial spectrum of penicillin V
+is identical to PnG, but it is about 1/5 as active
+against Neisseria , other gram negative bacteria
+and anaerobes. It cannot be depended upon for
+more serious infections and is used only for
+streptococcal pharyngitis, sinusitis, otitis media,
+prophylaxis of rheumatic fever (when an oral
+drug has to be selected), less serious pneumo-
+coccal infections and trench mouth.
+Dose: 250500 mg, infants 60 mg, children 125250 mg; given 6
+hourly, (250 mg = 4 lac U). CRYSTAPEN-V, KAYPEN 125, 250
+mg tab, 125 mg/5 ml dry syrfor reconstitution, PENIVORAL
+65, 130 mg tab.PENICILLINASE-RESISTANT
+PENICILLINS
+These congeners have side chains that protect
+the -lactam ring from attack by staphylococcal
+penicillinase. However, this also partially protects
+the bacteria from the -lactam ring: nonpenicilli-
+nase producing organisms are  much less
+sensitive to these drugs than to PnG. Their only
+indication is infections caused by penicillinase
+producing Staphylococci,  for which they are the
+drugs of choice, except in areas where methicillin
+resistant Staph. aureus (MRSA) has become
+prevalent. These drugs are not resistant to -
+lactamases produced by gram negative bacteria.
+Methicillin It is highly penicillinase resistant but not acid
+resistantmust be injected. It is also an inducer of
+penicillinase production.
+MRSA have emerged in many areas. These are insensitive
+to all penicillinase-resistant penicillins and to other -lactams
+as well as to erythromycin, aminoglycosides, tetracyclines,
+etc. The MRSA have altered PBPs which do not bind
+penicillins. The drug of choice for these organisms is
+vancomycin/linezolid, but ciprofloxacin can also be used.
+Haematuria, albuminuria and reversible interstitial
+nephritis are the specific adverse effects of methicillin. It has
+been replaced by cloxacillin.
+Cloxacillin/Dicloxacillin It has an isoxazolyl
+side chain and is highly penicillinase as well as
+acid resistant. Activity against PnG sensitive
+organisms is weaker, and it should not be used
+as a substitute for PnG. It is more active than
+methicillin against penicillinase producing Staph,
+but not against MRSA.
+Cloxacillin/dicloxacillin are incompletely
+but dependably absorbed from oral route,
+especially if taken in empty stomach. It is
+> 90% plasma protein bound. Elimination occurs
+primarily by kidney, also partly by liver. Plasma
+t½ is about 1 hour.
+Dose: 0.250.5 g orally every 6 hours; for severe infections
+0.251 g may be injected i.m. or i.v.higher blood levels are
+produced.
+KLOX, BIOCLOX, 0.25, 0.5 g cap; 0.25, 0.5 g/vial inj., CLOPEN
+0.25, 0.5 g cap.
+Oxacillin, Flucloxacillin (Floxacillin) are other isoxazolyl
+penicillins, similar to cloxacillin, but not marketed in India.
+Nafcillin is another parenteral penicillinase resistant penicillin.Antileprotic Drugs ChapterChapterChapterChapterChapter 5656565656
+Leprosy, caused by Mycobacterium leprae , has
+been considered incurable since ages and bears
+a social stigma. Due to availability of effective
+antileprotic drugs now, it is entirely curable, but
+deformities/defects already incurred may not
+reverse.
+Chaulmoogra oil with weak antileprotic property was used
+in Indian medicine for centuries. Shortly after the
+demonstration of antibacterial property of sulfonamides,
+congeners were tested and dapsone, the parent sulfone, was
+found to be an active antileprotic. Demonstration of its
+efficacy in experimental tuberculosis and leprosy led to clinical
+trials in the 1940s, and since then it is the sheet-anchor of
+treatment of leprosy. Few other sulfones were added, but none
+could excel dapsone. Clofazimine was inducted in the early
+1960s as a useful adjunct, and soon rifampin, developed for
+TB, was found to be a rapidly acting cidal drug for  M.leprae
+as well. Lately good antileprotic activity has been detected
+in some fluoroquinolones, macrolides and minocycline.
+CLASSIFICATION
+1.Sulfone Dapsone (DDS)
+2.Phenazine derivative Clofazimine
+3.Antitubercular drugs Rifampin,
+Ethionamide
+4.Other antibiotics Ofloxacin,
+Moxifloxacin,
+Minocycline,
+Clarithromycin
+Dapsone (DDS)
+It is diamino diphenyl sulfone (DDS), the
+simplest, oldest, cheapest, most active and most
+commonly used member of its class. All other
+sulfones have become obsolete.Activity and mechanism Dapsone is che-
+mically related to sulfonamides and has the same
+mechanism of action, i.e. inhibition of PABA
+incorporation into folic acid by folate synthase.
+The antibacterial action of dapsone is antagonized
+by PABA. It is leprostatic at very low concentra-
+tions, while growth of many other bacteria
+sensitive to sulfonamides is arrested at relatively
+higher concentrations. Specificity for M. leprae
+may be due to difference in the affinity of its
+folate synthase. Doses of dapsone needed for
+treatment of acute pyogenic bacterial infections
+are too toxic, so not used.
+Dapsone-resistance among M. leprae , first
+noted in 1964, has spread and has necessitated
+the use of multidrug therapy (MDT). When
+dapsone resistance is encountered in an untreated
+patient, it is called  primary, and indicates that
+the infection was contacted from a patient
+harbouring resistant bacilli. Resistance which
+develops during monotherapy in an individual
+patient with dapsone is called  secondary .The
+incidence of primary dapsone resistance reported
+from different parts of the world, from time-
+to-time, has been variable; whereas secondary
+dapsone resistance occurred in upto 20% patients
+treated with monotherapy. The mechanism of
+secondary resistance appears to be the same as
+for M. tuberculosis,  i.e. selective propagation
+of resistant bacilli over time. Dapsone resistant
+M. leprae have mutated folate synthase which
+has lower affinity for dapsone. However, the peak
+serum concentration of dapsone after 100 mg/
+day dose exceeds MIC for M. leprae  by nearly
+500 times; it continues to be active against low
+to moderately resistant bacilli, and the risk of
+relapse due to dapsone resistance is reported
+to be 23%. In addition to resistance, there is
+the problem of  persisters , that are drug
+Antifungal Drugs ChapterChapterChapterChapterChapter 5757575757
+These are drugs used for superficial and deep
+(systemic) fungal infections.
+A disquietening trend after 1950s is the rising
+prevalence of more sinister type of fungal
+infections which are, to a large extent, iatrogenic.
+Fungal infections are mostly associated with the
+use of broad-spectrum antibiotics, cortico-
+steroids, anticancer/immunosuppressant drugs,
+dentures, indwelling catheters and implants, and
+emergence of AIDS. As a result of breakdown
+of host defence mechanisms by the above agents,
+saprophytic fungi easily invade living tissue.
+Many topical antifungals have been available
+since the antiseptic era. Two important antibio-
+tics viz. amphotericin B to deal with systemic
+mycosis, and griseofulvin to supplement attack
+on dermatophytes were introduced around 1960.
+Antifungal property of flucytosine was noted in
+1970, but it could serve only as a companion
+drug to amphotericin. The development of
+imidazoles in the mid 1970s and triazoles in
+1980s has been an advancement. Terbinafine  is
+a novel antifungal. A group of potent semisyn-
+thetic antifungal antibiotics, the Echinocandins
+are the latest addition.
+CLASSIFICATION
+1.Antibiotics
+A.Polyenes: Amphotericin B (AMB),
+Nystatin, Hamycin
+B.Echinocandins :Caspofungin, Micafungin,
+Anidulafungin
+C.Heterocyclic benzofuran : Griseofulvin
+2.Antimetabolite Flucytosine (5-FC)
+3.Azoles
+A.Imidazoles
+Topical: Clotrimazole, Econazole,
+Miconazole, Oxiconazole
+Systemic: KetoconazoleB.Triazoles : Fluconazole,
+(systemic) Itraconazole,
+Voriconazole,
+Posaconazole
+4.Allylamine Terbinafine
+5.Other topical agents
+Tolnaftate, Undecylenic acid, Benzoic acid,
+Quiniodochlor, Ciclopirox olamine, Butenafine,
+Sod. thiosulfate.
+POLYENE ANTIBIOTICS
+The name polyene is derived from their highly
+double-bonded structure. Amphotericin B is
+described as the prototype.
+Amphotericin B (AMB)
+It is obtained from Streptomyces nodosus .
+Chemistry and mechanism of action The
+polyenes possess a macrocyclic ring, one side
+of which has several conjugated double bonds
+and is highly lipophilic, while the other side is
+hydrophilic with many OH groups. A polar
+aminosugar and a carboxylic acid group are
+present at one end in some. They are all insoluble
+in water and unstable in aqueous medium.
+The polyenes have high affinity for
+ergosterol present in fungal cell membrane. They
+combine with it, get inserted into the membrane
+and several polyene molecules together orient
+themselves in such a way as to form a
+micropore. The hydrophilic side forms the
+interior of the pore through which ions, amino
+acids and other water-soluble substances move
+out. The micropore is stabilized by membrane
+sterols which fill up the spaces between the AMB
+molecules on the lipophilic sideconstituting
+the outer surface of the pore. Thus, cell
+permeability is markedly increased.Antiviral Drugs ChapterChapterChapterChapterChapter 5858585858
+Viruses are the ultimate expression of parasitism.
+They not only take nutrition from the host cell but
+also direct its metabolic machinery to synthesize
+new virus particles. Viral chemotherapy, therefore
+was considered impossible, as it would require
+interference with cellular metabolism in the host.
+However,  in the past 50 years virus directed
+enzymes have been identified in the infected cell
+and some viruses have few enzymes of their own
+which may have higher affinities for some
+antimetabolites or inhibitors than the regular
+cellular enzymes. In addition, drugs have been
+developed which target virus specific steps like
+cell penetration, uncoating, reverse transcription,
+virus assembly or maturation, etc. Another
+stumbling block is that in majority of acute
+infections viral replication is already at its peak
+when symptoms appear. To be effective, therefore,
+therapy has to be started in the incubation period,
+i.e. has to be prophylactic or preemptive.
+CLASSIFICATION
+1.Anti-Herpes virus
+Idoxuridine, Trifluridine, Acyclovir,
+Valacyclovir, Famciclovir, Ganciclovir,
+Valganciclovir, Cidofovir, Foscarnet,
+Fomivirsen
+2.Anti-Influenza virus
+Amantadine, Rimantadine, Oseltamivir,
+Zanamivir
+3.Anti-Hepatitis virus/Nonselective antiviral
+drugs
+Primarily for hepatitis B: Lamivudine,
+Adefovir dipivoxil, Tenofovir
+Primarily for hepatitis C: Ribavirin,
+Interferon 
+4. Anti-Retrovirus
+(a) Nucleoside reverse transcriptase
+inhibitors (NRTIs) : Zidovudine (AZT),Didanosine, Stavudine,
+Lamivudine, Abacavir, Emtricitabine,
+Tenofovir (Nt RTI)
+(b)Nonnucleoside reverse transcriptase
+inhibitors (NNRTIs) : Nevirapine, Efavi-
+renz, Delavirdine
+(c)Protease inhibitors : Ritonavir,
+Atazanavir, Indinavir, Nelfinavir,
+Saquinavir, Amprenavir, Lopinavir
+(d)Entry (Fusion) inhibitor : Enfuvirtide
+(e)CCR5 receptor inhibitor : Maraviroc
+(f)Integrase inhibitor : Raltegravir
+ANTI-HERPES VIRUS DRUGS
+These are drugs active against the Herpes group
+of DNA viruses which include Herpes simplex
+virus-1 (HSV-1), Herpes simplex virus-2
+(HSV2), Varicella-Zoster virus (VZV), Epstein-
+Barr virus (EBV), and Cytomegalovirus  (CMV).
+Idoxuridine It is 5-iodo-2-deoxyuridine (IUDR), which acts
+as a thymidine analogue. It was the first pyrimidine
+antimetabolite to be used as antiviral drug. It competes with
+thymidine, gets incorporated in DNA so that faulty DNA is
+formed which breaks down easily. It is effective only against
+DNA viruses and clinical utility is limited to topical treatment
+of Herpes simplex keratitis. Because of low virus selectivity,
+higher local toxicity and rapid development of viral resistance,
+use of idoxuridine is restricted to superficial dendritic keratitis
+when rapid action is required. Idoxuridine eye drops act faster
+than acyclovir eye ointment, which is more effective when
+there is stromal involvement of the cornea. Ocular irritation
+occurs with idoxuridine eye drops.
+Dose: 0.1% eye drops to be instilled hourly, then 2 hourly
+and 4 hourly; apply 0.1% eye ointment at night.
+IDURIN, TOXIL 0.1% eye drops and eye oint.
+Trifluridine It is a fluorinated nucleoside which acts in the
+same way as idoxuridine, and inhibits HSV-1, HSV-2, CMV
+and related viruses. However, virus selectivity is low and DNA
+synthesis in host cells is also affected. In India trifluridine
+eye drop is approved for use in H. simplex keratitis. Higher
+efficacy than idoxuridine eye drops is reported. Ocular irritation
+and lid edema can occur.Antimalarial Drugs ChapterChapterChapterChapterChapter 5959595959
+These are drugs used for prophylaxis, treatment
+and prevention of relapses of malaria.
+Malaria, caused by 4 species of the protozoal
+parasite Plasmodium , is endemic in most parts
+of India and other tropical countries. It is one
+of the major health problems. As per latest WHO
+estimates (2011)* between 149274 (median
+216) million clinical cases and ~ 0.655 million
+deaths occur globally due to malaria each year,
+90% of which are in Africa. This amounts to
+one malaria death every minute. In India the
+National Malaria Eradication Programme
+(NMEP), started in 1958, achieved near complete
+disappearance of the disease in 1960s (from 75
+million cases in 1950s to 0.1 million cases in
+1960s). However, due to the development of
+insecticide resistance among mosquitoes and
+other factors, it staged a comeback in the mid
+1970s (6.47 million cases in 1976), and
+continues to prevail in endemic/subendemic
+proportions, so that 80% indian population lives
+in malaria risk areas. Conceding that eradication
+of malaria is not possible, NMEP was renamed
+National Antimalaria Programme (NAMP), which
+now is National vector borne diseases control
+programme (NVBDCP) with a wider disease
+coverage. For the year 2010, the NVBDCP has
+reported 1.49 million slide proven malaria cases
+in India, out of which 0.78 million (52%) were
+falciparum malaria with 767 recorded deaths.
+The WHO estimates that actual number of
+malaria cases in India is much higher, and an
+expert committee has estimated that about
+40,000 malaria deaths occur annually.
+The bark of Cinchona  tree, growing in Peru, was introduced
+in Europe in the early 17th century as a cure for fevers. Later
+it was realized to be a specific remedy for malaria. Quinine,
+isolated from Cinchona  bark in 1820, replaced the crudepreparation and continued to be the major antimalarial drug
+till 1942. The worlds supply of Cinchona  bark for producing
+quinine was met by Java and neighbouring countries. This
+was cut off from the Germans during World War I and from
+the Allies during World War II. Due to enormous military
+importance of malaria and its treatment, intense activity was
+initiated for the development of antimalarial drugs. Mepacrine
+was produced in Germany in 1926 and extensively field tested
+by the Allies during World War II. Chloroquine  was produced
+in USA soon after as a less toxic alternative to mepacrine.
+It had already been synthesized and used by Germans in 1934
+as Resochin. Proguanil was introduced in 1945 by the British
+as a well tolerated clinical curative.
+None of the above drugs were found to be capable of
+preventing relapses in vivax malaria. Pamaquine  was the first
+8-aminoquinoline to be tested in Germany in the 1920s.
+However, no attention was paid to it because of its poor
+schizontocide action. This class of drugs was retested during
+World War II as radical curative and Primaquine  emerged
+as the most desirable drug. Pyrimethamine  was produced in
+1951 under a planned post-war research programme for
+antimalarial drugs. Subsequently, chloroquine resistance
+emerged in P. falciparum and several drugs were developed
+to combat it; the important ones are Mefloquine, Lumefantrine ,
+Atovaquone, Pyronaridine, etc. However, the most significant
+advance is the Chinese herb derived fast acting Artemisinin
+compounds, the latest one of which is a synthetic derivative
+Arterolane  developed in India.
+CLASSIFICATION
+1.4-Aminoquinolines Chloroquine (CQ)
+Amodiaquine (AQ)
+Piperaquine
+2.Quinoline-methanol Mefloquine
+3.Cinchona alkaloid Quinine, Quinidine
+4.Biguanide Proguanil
+(Chloroguanide)
+5.Diaminopyrimidine Pyrimethamine
+6.8-Aminoquinoline Primaquine
+Tafenoquine
+7.Sulfonamides Sulfadoxine
+and sulfone Sulfamethopyrazine
+Dapsone * WHO: World Malaria Report, Dec. 2011817
+CHAPTER 59ANTIMALARIAL DRUGS
+8.Antibiotics Tetracycline
+Doxycycline
+Clindamycin
+9.Sesquiterpine Artesunate
+lactones Artemether
+Arteether
+Arterolane
+10.Amino alcohols Halofantrine
+Lumefantrine
+11.Naphthyridine Pyronaridine
+12.Naphthoquinone AtovaquoneOBJECTIVES AND USE OF
+ANTIMALARIAL DRUGS
+The aims of using drugs in relation to malarial
+infection are:
+(i) To prevent clinical attack of malaria
+(prophylactic).
+(ii) To treat clinical attack of malaria (clinical
+curative).
+(iii) To completely eradicate the parasite from
+the patients body (radical curative).
+(iv) To cutdown human-to-mosquito transmis-
+sion (gametocidal).
+Fig. 59.1: The life cycle of malarial parasite in man. Stages  and forms of
+the parasite at which different types of antimalarial drugs act are indicated.
+838
+SECTION 12ANTIMICROBIAL DRUGS
+ Less frequent side effects areheadache,
+glossitis, dryness of mouth and dizziness.
+ Urticaria, flushing, heat, itching, rashes and
+fixed drug eruption occur in allergic subjects,
+warrant discontinuation of the drug and
+preclude future use of nitroimidazoles.
+ Prolonged administration may cause peri-
+pheral neuropathy and CNS effects. Seizures
+have followed very high doses. Leucopenia
+is likely with repeated courses.
+ Thrombophlebitis of the injected vein occurs
+if the solution is not well diluted.
+Contraindications Metronidazole is contraindi-
+cated in neurological disease, blood dyscrasias,
+first trimester of pregnancy (though no terato-
+genic effect has yet been demonstrated, its
+mutagenic potential warrants caution). Cautious
+use in chronic alcoholics.
+Interactions A disulfiram-like intolerance to
+alcohol occurs in some patients taking metro-
+nidazole.
+Alcohol-metronidazole interaction occurs only in some
+individuals, while majority of those taking it can consume
+alcohol without any reaction. There is no convincing evidence
+of disulfiram-like action of metronidazole, but manufactures
+advise caution in drinking during metronidazole therapy.
+Enzyme inducers (phenobarbitone, rifampin)
+may reduce its therapeutic effect.
+Cimetidine can reduce metronidazole meta-
+bolism: its dose may need to be decreased.
+Metronidazole enhances warfarin action by
+inhibiting its metabolism. It can decrease renal
+elimination of lithium and precipitate toxicity.
+Preparations
+FLAGYL, METROGYL, METRON, ARISTOGYL ALDEZOLE
+200, 400 mg tab, 200 mg/5 ml susp. (as benzoyl metronidazole:
+tasteless); 500 mg/100 ml i.v. infusion; UNIMEZOL 200, 400 mg
+tabs, 200 mg/5 ml susp. METROGYL GEL, LUPIGYL GEL: 1%
+gel for vaginal/topical use.
+Uses
+1.Amoebiasis : Metronidazole is a first line
+drug for all forms of amoebic infection. Many
+dosage regimens have been tried; the current
+recommendations are:For invasive dysentery and liver abscess800
+mg TDS (children 3050 mg/kg/day) for 710
+days.
+In severe cases of amoebic dysentery or liver
+abscess 500 mg may be infused i.v. slowly every
+68 hours for 710 days or till oral therapy
+can be instituted.
+For mild intestinal disease400 mg TDS for
+57 days. Metronidazole is less effective than
+many luminal amoebicides in eradicating
+amoebic cysts from the colon, because it is
+nearly completely absorbed from the upper
+bowel.
+2.Giardiasis It is highly effective in a dose
+of 400 mg TDS for 7 days. A shorter course
+of 3 days with 2 g/day is equally effective.
+3.Trichomonas vaginitis It is the drug of
+choice; 2.0 g single dose is preferred. Alterna-
+tively 400 mg BDTDS may be used for 7 days.
+Additional intravaginal treatment is needed only
+in refractory cases. Repeated courses may be
+necessary in some patients, but should be given
+with gaps of 46 weeks. The male partner should
+be treated concurrently in cases of recurrent
+infections.
+Nonspecific bacterial vaginosis also responds.
+4.Anaerobic bacterial infections They
+occur mostly after colorectal or pelvic surgery,
+appendicectomy, etc. Brain abscesses and
+endocarditis may be caused by anaerobic
+organisms.
+Metronidazole is an effective drug for these
+and is generally used in combination with
+gentamicin or cephalosporins (many are mixed
+infections). For serious cases i.v. administration
+is recommended: 15 mg/kg infused over 1 hr
+followed by 7.5 mg/kg every 6 hrs till oral
+therapy can be instituted with 400800 mg TDS.
+Prophylactic use  in high risk situations
+(colorectal/biliary surgery) is recommended.
+Other drugs effective in anaerobic infections are
+clindamycin and chloramphenicol.
+5.Pseudomembranous enterocolitis due to
+Cl. difficile  is generally associated with use of858
+SECTION 13CHEMOTHERAPY OF NEOPLASTIC DISEASES
+apparent cure, especially in early breast, lung and
+colonic cancers.
+CLASSIFICATION
+A. Cytotoxic drugs
+1.Alkylating agents Mechlorethamine
+Nitrogen mustards (Mustine HCl)
+Cyclophosphamide,
+Ifosfamide,
+Chlorambucil,
+Melphalan
+Ethylenimine Thio-TEPA
+Alkyl sulfonate Busulfan
+Nitrosoureas Carmustine (BCNU),
+Lomustine (CCNU)
+Triazine Dacarbazine (DTIC),
+Temozolomide
+Methylhydrazine Procarbazine
+2.Platinum Cisplatin,
+coordination Carboplatin,
+complexes Oxaliplatin
+3.Antimetabolites
+Folate Methotrexate (Mtx)
+antagonist Pemetrexed
+Purine 6-Mercaptopurine (6-MP),
+antagonist 6-Thioguanine (6-TG),
+Azathioprine, Fludarabine
+Pyrimidine 5-Fluorouracil (5-FU),
+antagonist Capecitabine, Cytarabine
+(cytosine arabinoside)
+4.Microtubule Vincristine (Oncovin),
+damaging Vinblastine, Vinorelbine
+agents Paclitaxel, Docetaxel
+Estramustine
+5.Topoisomerase-2 Etoposide
+inhibitors
+6.Topoisomerase-1 Topotecan,
+inhibitors Irinotecan
+7.Antibiotics Actinomycin D
+(Dactinomycin),
+Doxorubicin,
+Daunorubicin
+(Rubidomycin),
+Epirubicin,
+Mitoxantrone,
+Bleomycins,
+Mitomycin C8.Miscellaneous Hydroxyurea,
+L-Asparaginase,
+Tretinoin,
+Arsenic trioxide
+B. Targeted drugs
+1.Tyrosine protein- Imatinib,
+kinase inhibitors Nilotinib
+2.EGF receptor Gefitinib, Erlotinib
+inhibitors Cetuximab
+3.Angiogenesis Bevacizumab
+inhibitors Sunitinib
+4.Proteasome Bortezomib
+inhibitor
+5.Unarmed Rituximab,
+monoclonal Trastuzumab
+antibody
+C. Hormonal drugs
+1.Glucocorticoids Prednisolone and
+others
+2.Estrogens Fosfestrol,
+Ethinylestradiol
+3.Selective estrogen Tamoxifen,
+receptor modulators Toremifene
+4.Selective estrogen Fulvestrant
+receptor down
+regulators
+5.Aromatase Letrozole,
+inhibitors Anastrozole,
+Exemestane
+6.Antiandrogen Flutamide,
+Bicalutamide
+7.5- reductase Finasteride,
+inhibitor Dutasteride
+8.GnRH analogues Nafarelin, Leuprorelin
+Triptorelin
+9.Progestins Hydroxyprogesterone
+acetate, etc.
+GENERAL TOXICITY OF
+CYTOTOXIC DRUGS
+Majority of the cytotoxic drugs have more
+profound effect on rapidly multiplying cells,
+because the most important target of action are
+the nucleic acids and their precursors, and rapid898
+SECTION 14MISCELLANEOUS DRUGS
+Period of contact with the microorganism.
+Nature of microbe involved.
+Size of innoculum.
+Presence of blood, pus or other organic
+matter.
+Potency of a germicide is generally expressed
+by its phenol coefficient  or Rideal Walker
+coefficient , which is the ratio of the minimum
+concentration of test drug required to kill a 24
+hour culture of B. typhosa  in 7.5 minute at 37.5°C
+to that of phenol under similar conditions. This
+test has only limited validity, particularly in
+relation to antiseptics which have to be tested
+on living surfaces.
+Therapeutic index  of an antiseptic is defined
+by comparing the concentration at which it acts
+on microorganisms with that which produces local
+irritation, tissue damage or interference with
+healing.
+CLASSIFICATION
+1.Phenol derivatives : Phenol, Cresol,
+Hexylresorcinol, Chloroxylenol,
+Hexachlorophene.
+2.Oxidizing agents : Pot. permangnate,
+Hydrogen peroxide, Benzoyl peroxide.
+3.Halogens :Iodine, Iodophores, Chlorine,
+Chlorophores.
+4.Biguanide :Chlorhexidine.
+5.Quaternary ammonium (Cationic):  Cetri-
+mide, Benzalkonium chloride, Dequalinium
+chloride.
+6.Soaps:of Sod. and Pot.
+7.Alcohols :Ethanol, Isopropanol.
+8.Aldehydes : Formaldehyde, Glutaraldehyde.
+9.Acids:Boric acid, Acetic acid.
+10.Metallic salts : Silver nitrate, Silver
+sulfadiazine, Mild silver protein, Zinc
+sulfate, Calamine, Zinc oxide.
+11.Dyes: Gentian violet, Acriflavine, Proflavine.
+12.Furan derivative : Nitrofurazone.1. PHENOLS
+Phenol (Carbolic acid) It is one of the earliest
+used antiseptics and still the standard for com-
+paring other germicides. It is a relatively weak
+agent (static at 0.2%, cidal at >1%, poor action
+on bacterial spores). It is a general protoplasmic
+poison, injuring microbes and tissue cells alike
+at higher concentrations causes skin burns and
+is a caustic. It acts by disrupting bacterial
+membranes and denaturing bacterial proteins.
+Organic matter diminishes its action slightly while
+alkalies and soaps do so profoundly (carbolic
+soaps are not more germicidal than soap itself).
+It is now seldom employed as an antiseptic, but
+being cheap, it is used to disinfect urine, faeces,
+pus, sputum of patients and is sometimes included
+in antipruritic preparations because of its mild
+local anaesthetic action.
+Cresol It is methyl-phenol; more active (310
+times) and less damaging to tissues. Used for
+disinfection of utensils, excreta and for washing
+hands.
+LYSOL is a 50% soapy emulsion of cresol.
+Hexylresorcinol It is a more potent derivative of the
+phenolic compound resorcinol that is odourless and
+nonstaining; used as mouthwash, lozenge and as anti-
+fungal.
+Chloroxylenol It has a phenol coefficient of
+70; does not coagulate proteins, is noncorrosive,
+nonirritating to intact skin, but efficacy is reduced
+by organic matter. It is poorly water soluble; the
+commercial 4.8% solution ( DETTOL) is prepared
+in 9% terpinol and 13% alcohol; used for surgical
+antisepsis. A 0.8% skin cream and soap, 1.4%
+lubricating obstetric cream (for vaginal examina-
+tion, use on forceps, etc.), and a mouthwash
+(DETTOLIN 1% with menthol 0.45% ) are also available.
+These preparations lose activity if diluted with
+water and kept for a time.
+Hexachlorophene This chlorinated phenol
+acts by inhibiting bacterial enzymes and (in high
+concentration) causing bacterial lysis. It is
+odourless, nonirritating and does not stain. Its
+activity is reduced by organic matter but not by

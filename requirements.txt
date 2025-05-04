@@ -1,0 +1,10 @@
+streamlit
+openai
+google-generativeai
+pymupdf
+pdf2image
+pytesseract
+Pillow
+cryptography
+prometheus_client
+streamlit-extras
