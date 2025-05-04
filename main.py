@@ -11,6 +11,10 @@ import threading
 import time
 from concurrent.futures import ProcessPoolExecutor
 from hashlib import sha256
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # ---------- Rate Limiter ----------
 class RateLimiter:
@@ -32,6 +36,7 @@ limiter = RateLimiter(max_calls=100, period=60)
 # ---------- API Keys ----------
 OPENAI_API_KEY = os.getenv('OPENAI_KEY')
 GEMINI_API_KEY = os.getenv('GEMINI_KEY')
+TOGETHER_API_KEY = os.getenv('TOGETHER_API_KEY')
 
 # ---------- Streamlit Setup ----------
 st.set_page_config(page_title="AI Exam Agent", layout="wide")
@@ -43,7 +48,7 @@ num_q = sb.slider("Number of MCQs", 1, 100, 10)
 note_depth = sb.selectbox("Note Depth", ["Concise", "Detailed", "Comprehensive"])
 topic = sb.text_input("Topic (optional, use for focused MCQs)")
 use_ocr = sb.checkbox("Enable OCR for scanned PDFs")
-use_ai = sb.radio("AI Backend", ["Mistral", "OpenAI", "Gemini"])
+use_ai = sb.radio("AI Backend", ["Mistral", "OpenAI", "Gemini", "Together"])
 
 # ---------- User Identification & GDPR ----------
 user_name = st.text_input("Enter your name")
@@ -73,20 +78,21 @@ def check_redis(key): return REDIS_STORE.get(key)
 def store_redis(key, val): REDIS_STORE[key] = val
 
 # ---------- Model Prewarm ----------
-def prewarm_ai():
-    if use_ai == "OpenAI":
-        if not OPENAI_API_KEY:
-            st.error("OPENAI_KEY not set in environment")
-            st.stop()
-        openai.api_key = OPENAI_API_KEY
-        threading.Thread(target=lambda: openai.chat.completions.create(model="gpt-4", messages=[{"role":"user","content":"warmup"}])).start()
-    elif use_ai == "Gemini":
-        if not GEMINI_API_KEY:
-            st.error("GEMINI_KEY not set in environment")
-            st.stop()
-        genai.configure(api_key=GEMINI_API_KEY)
-
-prewarm_ai()
+if use_ai == "OpenAI":
+    if not OPENAI_API_KEY:
+        st.error("OPENAI_KEY not set in environment")
+        st.stop()
+    openai.api_key = OPENAI_API_KEY
+    threading.Thread(target=lambda: openai.chat.completions.create(model="gpt-4", messages=[{"role":"user","content":"warmup"}])).start()
+elif use_ai == "Gemini":
+    if not GEMINI_API_KEY:
+        st.error("GEMINI_KEY not set in environment")
+        st.stop()
+    genai.configure(api_key=GEMINI_API_KEY)
+elif use_ai == "Together":
+    if not TOGETHER_API_KEY:
+        st.error("TOGETHER_API_KEY not set in environment")
+        st.stop()
 
 # ---------- PDF Extraction ----------
 @st.cache_data
@@ -148,6 +154,19 @@ if f:
                         chat = genai.GenerativeModel('gemini-pro').start_chat()
                         response = chat.send_message(prompt)
                         note = response.text
+                    elif use_ai == "Together":
+                        headers = {
+                            "Authorization": f"Bearer {TOGETHER_API_KEY}",
+                            "Content-Type": "application/json"
+                        }
+                        data = {
+                            "inputs": prompt,
+                            "options": {
+                                "max_tokens": 1500
+                            }
+                        }
+                        response = requests.post("https://api.together.xyz/v1/engines/text-davinci-003/completions", json=data, headers=headers)
+                        note = response.json()['choices'][0]['text']
                     else:
                         result = subprocess.run(
                             ["ollama", "run", "mistral"],
@@ -177,6 +196,19 @@ if f:
                     chat = genai.GenerativeModel('gemini-pro').start_chat()
                     response = chat.send_message(f"Generate {num_q} MCQs from this text:\n{text}")
                     mcqs = response.text
+                elif use_ai == "Together":
+                    headers = {
+                        "Authorization": f"Bearer {TOGETHER_API_KEY}",
+                        "Content-Type": "application/json"
+                    }
+                    data = {
+                        "inputs": f"Generate {num_q} MCQs from this text:\n{text}",
+                        "options": {
+                            "max_tokens": 1500
+                        }
+                    }
+                    response = requests.post("https://api.together.xyz/v1/engines/text-davinci-003/completions", json=data, headers=headers)
+                    mcqs = response.json()['choices'][0]['text']
                 else:
                     result = subprocess.run(
                         ["ollama", "run", "mistral"],
