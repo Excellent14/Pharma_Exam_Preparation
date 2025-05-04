@@ -1,6 +1,5 @@
 import streamlit as st
 import openai
-import genai
 import PyPDF2
 import pytesseract
 from pdf2image import convert_from_path
@@ -13,8 +12,6 @@ load_dotenv()
 
 # OpenAI API Key
 openai.api_key = os.getenv("OPENAI_API_KEY")
-# Gemini API setup (or another alternative)
-use_ai = os.getenv("USE_AI")  # "OpenAI" or "Gemini"
 num_q = int(os.getenv("MCQ_COUNT", 5))  # Number of MCQs to generate
 
 # Function to handle OCR text extraction
@@ -67,18 +64,13 @@ if f:
         notes = []
         with st.spinner("Generating notes..."):
             for idx, chunk in enumerate([text[i:i+3000] for i in range(0, len(text), 3000)]):
-                prompt = f"Generate {note_depth.lower()} notes for exam from this content:\n{chunk}"
+                prompt = f"Generate detailed notes for exam from this content:\n{chunk}"
                 try:
-                    if use_ai == "OpenAI":
-                        resp = openai.chat.completions.create(model="gpt-4", messages=[{"role": "user", "content": prompt}])
-                        note = resp.choices[0].message.content
-                    elif use_ai == "Gemini":
-                        chat = genai.GenerativeModel('gemini-pro').start_chat()
-                        response = chat.send_message(prompt)
-                        note = response.text
-                    else:
-                        # If Ollama is not available, just skip this block
-                        note = "⚠️ Error: Ollama is not available. Please use OpenAI or Gemini."
+                    resp = openai.ChatCompletion.create(
+                        model="gpt-4", 
+                        messages=[{"role": "user", "content": prompt}]
+                    )
+                    note = resp.choices[0].message.content
                 except Exception as e:
                     note = f"⚠️ Error: {str(e)}"
                 notes.append(note)
@@ -88,18 +80,11 @@ if f:
     if st.button("❓ Generate MCQs"):
         with st.spinner("Generating MCQs..."):
             try:
-                if use_ai == "OpenAI":
-                    mcq_resp = openai.chat.completions.create(
-                        model="gpt-4",
-                        messages=[{"role": "user", "content": f"Generate {num_q} MCQs from this text:\n{text}"}]
-                    )
-                    mcqs = mcq_resp.choices[0].message.content
-                elif use_ai == "Gemini":
-                    chat = genai.GenerativeModel('gemini-pro').start_chat()
-                    response = chat.send_message(f"Generate {num_q} MCQs from this text:\n{text}")
-                    mcqs = response.text
-                else:
-                    mcqs = "⚠️ Error: Ollama is not available. Please use OpenAI or Gemini."
+                mcq_resp = openai.ChatCompletion.create(
+                    model="gpt-4",
+                    messages=[{"role": "user", "content": f"Generate {num_q} MCQs from this text:\n{text}"}]
+                )
+                mcqs = mcq_resp.choices[0].message.content
             except Exception as e:
                 mcqs = f"⚠️ Error: {str(e)}"
         st.subheader("Generated MCQs")
